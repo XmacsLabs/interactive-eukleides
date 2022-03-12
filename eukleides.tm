@@ -486,15 +486,15 @@
   operators>
 
   <\description>
-    <item*|<code*|x + y>>Sum of x and y.<next-line>
+    <item*|<code*|x + y>>Sum of x and y.
 
-    <item*|<code*|x - y>>Difference of x and y.<next-line>
+    <item*|<code*|x - y>>Difference of x and y.
 
-    <item*|<code*|x * y>>Product of x and y.<next-line>
+    <item*|<code*|x * y>>Product of x and y.
 
-    <item*|<code*|x / y>>Quotient of x and y.<next-line>
+    <item*|<code*|x / y>>Quotient of x and y.
 
-    <item*|<code*|x ^ y>>x to the power y.<next-line>
+    <item*|<code*|x ^ y>>x to the power y.
 
     <item*|<code*|x mod y>>Remainder after division of x by y.
   </description>
@@ -503,38 +503,35 @@
   functions>
 
   <\description>
-    <item*|<code*|sqrt(x)>>Square root of x.<next-line>
+    <item*|<code*|sqrt(x)>>Square root of x.
 
-    <item*|<code*|exp(x)>>Base-e exponential of x.<next-line>
+    <item*|<code*|exp(x)>>Base-e exponential of x.
 
-    <item*|<code*|ln(x)>>Natural logarithm of x.<next-line>
+    <item*|<code*|ln(x)>>Natural logarithm of x.
 
-    <item*|<code*|sin(x), cos(x), tan(x)>>Sine, cosine, tangent of x
-    degrees.<next-line>
+    <item*|<code*|sin(x), cos(x), tan(x)>>Sine, cosine, tangent of x degrees.
 
     <item*|<code*|asin(x), acos(x), atan(x)>>Arcsine, arccosine, arctangent
-    of x (in degrees).<next-line>
+    of x (in degrees).
 
-    <item*|<code*|deg(x)>>Radians to degrees conversion.<next-line>
+    <item*|<code*|deg(x)>>Radians to degrees conversion.
 
-    <item*|<code*|rad(x)>>Degrees to radians conversion.<next-line>
+    <item*|<code*|rad(x)>>Degrees to radians conversion.
 
-    <item*|<code*|abs(x)>>Absolute value of x.<next-line>
+    <item*|<code*|abs(x)>>Absolute value of x.
 
-    <item*|<code*|sign(x)>>-1 if x \<less\> 0, 0 if x = 0, 1 if x \<gtr\>
-    0.<next-line>
+    <item*|<code*|sign(x)>>-1 if x \<less\> 0, 0 if x = 0, 1 if x \<gtr\> 0.
 
     <item*|<code*|ceil(x)>>Smallest integral value greater than or equal to
-    x.<next-line>
+    x.
 
-    <item*|<code*|floor(x)>>Largest integral value less than or equal to
-    x.<next-line>
+    <item*|<code*|floor(x)>>Largest integral value less than or equal to x.
 
-    <item*|<code*|round(x)>>Integral value nearest to x.<next-line>
+    <item*|<code*|round(x)>>Integral value nearest to x.
 
-    <item*|<code*|min(x, y)>>Minimum of x and y.<next-line>
+    <item*|<code*|min(x, y)>>Minimum of x and y.
 
-    <item*|<code*|max(x, y)>>Maximum of x and y.<next-line>
+    <item*|<code*|max(x, y)>>Maximum of x and y.
 
     <item*|<code*|clamp(x, y, z)>>y if x \<less\> y, z if x \<gtr\> z, x
     otherwise.
@@ -554,15 +551,15 @@
   <label|index-special-characters-38><subsubsection*|Special characters>
 
   <\description>
-    <item*|<code*|%n>>Newline (LF).<next-line>
+    <item*|<code*|%n>>Newline (LF).
 
-    <item*|<code*|%r>>Return (CR).<next-line>
+    <item*|<code*|%r>>Return (CR).
 
-    <item*|<code*|%t>>Tab.<next-line>
+    <item*|<code*|%t>>Tab.
 
-    <item*|<code*|%">>Double quote (when enclosing character).<next-line>
+    <item*|<code*|%">>Double quote (when enclosing character).
 
-    <item*|<code*|%$>>Dollar sign (when enclosing character).<next-line>
+    <item*|<code*|%$>>Dollar sign (when enclosing character).
 
     <item*|<code*|%%>>Percent sign.
   </description>
@@ -571,10 +568,10 @@
   related functions>
 
   <\description>
-    <item*|<code*|length(s)>>Length of string s.<next-line>
+    <item*|<code*|length(s)>>Length of string s.
 
     <item*|<code*|sub(s, i, j)>>Substring of string s from index i to j.
-    Indices start at 0.<next-line>
+    Indices start at 0.
 
     <item*|<code*|cat(><var|list><code*|)>>Concatenates<nbsp><var|list><nbsp>into
     a single string, where<nbsp><var|list><nbsp>is a comma separated sequence
@@ -598,17 +595,15 @@
   related functions>
 
   <\description>
-    <item*|<code*|point(x, y)>>Point of Cartesian coordinates (x,
-    y).<next-line>
+    <item*|<code*|point(x, y)>>Point of Cartesian coordinates (x, y).
 
-    <item*|<code*|point(r, a)>>Point of polar coordinates (r, a).<next-line>
+    <item*|<code*|point(r, a)>>Point of polar coordinates (r, a).
 
-    <item*|<code*|abscissa(A)>>Abscissa of point A.<next-line>
+    <item*|<code*|abscissa(A)>>Abscissa of point A.
 
-    <item*|<code*|ordinate(A)>>Ordinate of point A.<next-line>
+    <item*|<code*|ordinate(A)>>Ordinate of point A.
 
-    <item*|<code*|distance(A, B)>>Distance between point A and point
-    B.<next-line>
+    <item*|<code*|distance(A, B)>>Distance between point A and point B.
 
     <item*|<code*|barycenter(><var|list><code*|)>>Barycenter of a set of
     weighted points. In the given list, each point has to be followed by its
@@ -624,13 +619,13 @@
   <label|index-vector-operators-51><subsubsection*|Vector operators>
 
   <\description>
-    <item*|<code*|u + v>>Sum of u and v.<next-line>
+    <item*|<code*|u + v>>Sum of u and v.
 
-    <item*|<code*|u - v>>Difference of u and v.<next-line>
+    <item*|<code*|u - v>>Difference of u and v.
 
-    <item*|<code*|k * u>>Scalar product of u by k.<next-line>
+    <item*|<code*|k * u>>Scalar product of u by k.
 
-    <item*|<code*|u / k>>Scalar quotient of u by k.<next-line>
+    <item*|<code*|u / k>>Scalar quotient of u by k.
 
     <item*|<code*|u * v>>Dot product of u and v.
   </description>
@@ -639,22 +634,19 @@
   related functions>
 
   <\description>
-    <item*|<code*|vector(x, y)>>Vector of Cartesian coordinates (x,
-    y).<next-line>
+    <item*|<code*|vector(x, y)>>Vector of Cartesian coordinates (x, y).
 
-    <item*|<code*|vector(r, a)>>Vector of polar coordinates (r,
-    a).<next-line>
+    <item*|<code*|vector(r, a)>>Vector of polar coordinates (r, a).
 
-    <item*|<code*|vector(A, B)>>Vector going from point A to point
-    B.<next-line>
+    <item*|<code*|vector(A, B)>>Vector going from point A to point B.
 
-    <item*|<code*|abscissa(u)>>Abscissa of u.<next-line>
+    <item*|<code*|abscissa(u)>>Abscissa of u.
 
-    <item*|<code*|ordinate(u)>>Ordinate of u.<next-line>
+    <item*|<code*|ordinate(u)>>Ordinate of u.
 
-    <item*|<code*|length(u)>>Length of u.<next-line>
+    <item*|<code*|length(u)>>Length of u.
 
-    <item*|<code*|arg(u)>>Polar angle of u (in degrees).<next-line>
+    <item*|<code*|arg(u)>>Polar angle of u (in degrees).
 
     <item*|<code*|angle(u, v)>>Angle between u and v (in degrees).
   </description>
@@ -672,7 +664,7 @@
 
   <\description>
     <item*|<code*|s.t>>Concatenates s and t. Each operand can be either a set
-    or a point.<next-line>
+    or a point.
 
     <item*|<code*|s[i]>>Point of index i in variable s, assuming s contains a
     set. Indices start at 0.
@@ -682,38 +674,36 @@
   related functions>
 
   <\description>
-    <item*|<code*|set(P)>>Singleton containing point P.<next-line>
+    <item*|<code*|set(P)>>Singleton containing point P.
 
-    <item*|<code*|card(s)>>Number of elements of set s.<next-line>
+    <item*|<code*|card(s)>>Number of elements of set s.
 
-    <item*|<code*|length(s)>>Length of path s.<next-line>
+    <item*|<code*|length(s)>>Length of path s.
 
-    <item*|<code*|perimeter(s)>>Perimeter of polygon s.<next-line>
+    <item*|<code*|perimeter(s)>>Perimeter of polygon s.
 
     <item*|<code*|area(s)>>Area enclosed by polygon s, provided s is not
-    self-intersecting.<next-line>
+    self-intersecting.
 
-    <item*|<code*|arg(s)>>Polar angle of segment s (in degrees).<next-line>
+    <item*|<code*|arg(s)>>Polar angle of segment s (in degrees).
 
     <item*|<code*|point(s, x)>>Point of abscissa x on an axis containing
-    segment s. The point is on segment s when x ranges from 0 to
-    1.<next-line>
+    segment s. The point is on segment s when x ranges from 0 to 1.
 
-    <item*|<code*|midpoint(s)>>Midpoint of segment s.<next-line>
+    <item*|<code*|midpoint(s)>>Midpoint of segment s.
 
-    <item*|<code*|bisector(s)>>Perpendicular bisector of segment
-    s.<next-line>
+    <item*|<code*|bisector(s)>>Perpendicular bisector of segment s.
 
-    <item*|<code*|isobarycenter(s)>>Isobarycenter of set s.<next-line>
+    <item*|<code*|isobarycenter(s)>>Isobarycenter of set s.
 
-    <item*|<code*|centroid(s)>>Centroid of polygon s.<next-line>
+    <item*|<code*|centroid(s)>>Centroid of polygon s.
 
-    <item*|<code*|element(s, i)>>Point of index i in set s.<next-line>
+    <item*|<code*|element(s, i)>>Point of index i in set s.
 
     <item*|<code*|vector(s)>>Vector going from first to second point of
-    segment s.<next-line>
+    segment s.
 
-    <item*|<code*|sub(s, i, j)>>Subset of set s from index i to j.<next-line>
+    <item*|<code*|sub(s, i, j)>>Subset of set s from index i to j.
 
     <item*|<code*|polygon(n, O, r, a)>>
 
@@ -758,44 +748,39 @@
   related functions>
 
   <\description>
-    <item*|<code*|line(A, a)>>Line of origin A and direction a.<next-line>
+    <item*|<code*|line(A, a)>>Line of origin A and direction a.
 
-    <item*|<code*|line(A, B)>>Line of origin A, passing through point
-    B.<next-line>
+    <item*|<code*|line(A, B)>>Line of origin A, passing through point B.
 
-    <item*|<code*|line(A, u)>>Line of origin A, directed by vector
-    u.<next-line>
+    <item*|<code*|line(A, u)>>Line of origin A, directed by vector u.
 
     <item*|<code*|line(s)>>Line passing through segment s. The origin is set
-    to the first point of s.<next-line>
+    to the first point of s.
 
-    <item*|<code*|parallel(l, A)>>Parallel to line l of origin A.<next-line>
+    <item*|<code*|parallel(l, A)>>Parallel to line l of origin A.
 
-    <item*|<code*|parallel(s, A)>>Parallel to segment s of origin
-    A.<next-line>
+    <item*|<code*|parallel(s, A)>>Parallel to segment s of origin A.
 
-    <item*|<code*|perpendicular(l, A)>>Perpendicular to line l of origin
-    A.<next-line>
+    <item*|<code*|perpendicular(l, A)>>Perpendicular to line l of origin A.
 
     <item*|<code*|perpendicular(s, A)>>Perpendicular to segment s of origin
-    A.<next-line>
+    A.
 
     <item*|<code*|bisector(l, l')>>Bisector of lines l and l'. The resulting
-    angular direction is the mean of the directions of l and l'.<next-line>
+    angular direction is the mean of the directions of l and l'.
 
-    <item*|<code*|distance(A, l)>>Distance between point A and line
-    l.<next-line>
+    <item*|<code*|distance(A, l)>>Distance between point A and line l.
 
-    <item*|<code*|arg(l)>>Polar angle of line l (in degrees).<next-line>
+    <item*|<code*|arg(l)>>Polar angle of line l (in degrees).
 
     <item*|<code*|point(l, x)>>Point of abscissa x on line l with respect to
-    its implicit origin and orientation.<next-line>
+    its implicit origin and orientation.
 
     <item*|<code*|abscissa(l, x)>>Point of abscissa x on line l with respect
-    to the implicit coordinate system.<next-line>
+    to the implicit coordinate system.
 
     <item*|<code*|ordinate(l, y)>>Point of ordinate y on line l with respect
-    to the implicit coordinate system.<next-line>
+    to the implicit coordinate system.
 
     <item*|<code*|vector(l)>>Unit vector having the same direction than line
     l.
@@ -812,23 +797,23 @@
   related functions>
 
   <\description>
-    <item*|<code*|circle(A, x)>>Circle of center A and radius x.<next-line>
+    <item*|<code*|circle(A, x)>>Circle of center A and radius x.
 
-    <item*|<code*|circle(s)>>Circle of diameter s.<next-line>
+    <item*|<code*|circle(s)>>Circle of diameter s.
 
-    <item*|<code*|radius(c)>>Radius of circle c.<next-line>
+    <item*|<code*|radius(c)>>Radius of circle c.
 
-    <item*|<code*|perimeter(c)>>Perimeter of circle c.<next-line>
+    <item*|<code*|perimeter(c)>>Perimeter of circle c.
 
-    <item*|<code*|area(c)>>Area enclosed in circle c.<next-line>
+    <item*|<code*|area(c)>>Area enclosed in circle c.
 
     <item*|<code*|arg(A, c)>>Polar angle of point A with respect to the
-    center of c (in degrees).<next-line>
+    center of c (in degrees).
 
     <item*|<code*|point(c, a)>>Point on c with polar angle a with respect to
-    its center.<next-line>
+    its center.
 
-    <item*|<code*|center(c)>>Center of circle c.<next-line>
+    <item*|<code*|center(c)>>Center of circle c.
 
     <item*|<code*|line(c, a)>>Tangent line to circle c. The contact point has
     polar angle a with respect to the center of c.
@@ -867,46 +852,44 @@
 
   <\description>
     <item*|<code*|ellipse(A, x, y, a)>>Ellipse of center A, major axis x,
-    minor axis y. The direction of the major axis is a.<next-line>
+    minor axis y. The direction of the major axis is a.
 
     <item*|<code*|hyperbola(A, x, y, a)>>Hyperbola of center A, real axis x,
-    imaginary axis y. The direction of the real axis is a.<next-line>
+    imaginary axis y. The direction of the real axis is a.
 
     <item*|<code*|parabola(A, x, a)>>Parabola of summit A and parameter x.
-    The direction of its axis is a.<next-line>
+    The direction of its axis is a.
 
-    <item*|<code*|parabola(A, l)>>Parabola of focus A and directrix
-    l.<next-line>
+    <item*|<code*|parabola(A, l)>>Parabola of focus A and directrix l.
 
     <item*|<code*|conic(A, l, x)>>Conic of focus A, directrix l and
-    eccentricity x.<next-line>
+    eccentricity x.
 
-    <item*|<code*|conic(A, B, x)>>Conic of foci A and B and eccentricity
-    x.<next-line>
+    <item*|<code*|conic(A, B, x)>>Conic of foci A and B and eccentricity x.
 
     <item*|<code*|major(c)>>Major axis of conic c if c is an ellipse, real
-    axis if c is an hyperbola, parameter if c is a parabola.<next-line>
+    axis if c is an hyperbola, parameter if c is a parabola.
 
     <item*|<code*|minor(c)>>Minor axis of conic c if c is an ellipse,
-    imaginary axis if c is an hyperbola, 0 if c is a parabola.<next-line>
+    imaginary axis if c is an hyperbola, 0 if c is a parabola.
 
-    <item*|<code*|eccentricity(c)>>Eccentricity of conic c.<next-line>
+    <item*|<code*|eccentricity(c)>>Eccentricity of conic c.
 
     <item*|<code*|arg(c)>>Polar angle of the major axis of c if c is an
     ellipse, of the real axis if c is an hyperbola, of the axis if c is a
-    parabola (in degrees).<next-line>
+    parabola (in degrees).
 
     <item*|<code*|arg(A, c)>>Argument of point A on conic c with respect to
     its parametric representation. If A is not on c this function uses the
     projection of A on c with respect to its center for centered conics or
-    its focus for parabolas.<next-line>
+    its focus for parabolas.
 
     <item*|<code*|point(c, a)>>Point on conic c of argument a with respect to
-    its parametric representation.<next-line>
+    its parametric representation.
 
-    <item*|<code*|center(c)>>Center of centered conic c.<next-line>
+    <item*|<code*|center(c)>>Center of centered conic c.
 
-    <item*|<code*|foci(c)>>Set containing the foci of conic c.<next-line>
+    <item*|<code*|foci(c)>>Set containing the foci of conic c.
 
     <item*|<code*|line(c, a)>>Tangent line to conic c. The contact point has
     argument a with respect to the parametric representation of c.
@@ -924,17 +907,16 @@
   transformations>
 
   <\description>
-    <item*|<code*|translation(o, u)>>Translation of object o using vector
-    u.<next-line>
+    <item*|<code*|translation(o, u)>>Translation of object o using vector u.
 
     <item*|<code*|reflection(o, l)>>Reflection of object o with respect to
-    line l.<next-line>
+    line l.
 
     <item*|<code*|symmetric(o, A)>>Symmetric (i.e. 180\<degree\> rotation) of
-    object o with respect to point A.<next-line>
+    object o with respect to point A.
 
     <item*|<code*|rotation(o, A, a)>>Rotation of object o with respect to
-    point A, using angle a.<next-line>
+    point A, using angle a.
 
     <item*|<code*|homothecy(o, A, x)>>Homothecy (i.e. reduction or dilation)
     of object o with respect to point A, using scale x.
@@ -944,7 +926,7 @@
 
   <\description>
     <item*|<code*|projection(A, l)>>Orthogonal projection of point A on line
-    l.<next-line>
+    l.
 
     <item*|<code*|projection(A, l, l')>>Projection of point A on line l using
     direction of line l'.
@@ -960,19 +942,17 @@
 
   <\description>
     <item*|<code*|intersection(l, l')>>Intersection of line l and line l'.
-    Parallel lines cause an error.<next-line>
+    Parallel lines cause an error.
 
-    <item*|<code*|intersection(l, s)>>Intersection of line l and set
-    s.<next-line>
+    <item*|<code*|intersection(l, s)>>Intersection of line l and set s.
 
     <item*|<code*|intersection(l, c)>>Intersection of line l and circle or
-    conic c.<next-line>
+    conic c.
 
-    <item*|<code*|intersection(s, s')>>Intersection of set s and set
-    s'.<next-line>
+    <item*|<code*|intersection(s, s')>>Intersection of set s and set s'.
 
     <item*|<code*|intersection(c, c')>>Intersection of circle c and circle
-    c'.<next-line>
+    c'.
 
     <item*|<code*|intersection(c, s)>>Intersection of circle c and set s.
   </description>
@@ -1004,13 +984,13 @@
   <label|index-triangle-132><subsubsection*|Generic triangles>
 
   <\description>
-    <item*|<code*|triangle { x { , a } }><next-line>>
+    <item*|<code*|triangle { x { , a } }>>
 
-    <item*|<code*|triangle { x, } y, z { , a }><next-line>>
+    <item*|<code*|triangle { x, } y, z { , a }>>
 
-    <item*|<code*|triangle { x, } u, v { , a }><next-line>>
+    <item*|<code*|triangle { x, } u, v { , a }>>
 
-    <item*|<code*|triangle { x, } u, z { , a }><next-line>>
+    <item*|<code*|triangle { x, } u, z { , a }>>
 
     <item*|<code*|triangle { x, } z, v { , a }>>
   </description>
@@ -1020,9 +1000,9 @@
   <label|index-right-133><subsubsection*|Right triangles>
 
   <\description>
-    <item*|<code*|right { x { , a } }><next-line>>
+    <item*|<code*|right { x { , a } }>>
 
-    <item*|<code*|right { x, } y { , a }><next-line>>
+    <item*|<code*|right { x, } y { , a }>>
 
     <item*|<code*|right { x, } u { , a }>>
   </description>
@@ -1034,9 +1014,9 @@
   <label|index-isosceles-134><subsubsection*|Isosceles triangles>
 
   <\description>
-    <item*|<code*|isosceles { x { , a } }><next-line>>
+    <item*|<code*|isosceles { x { , a } }>>
 
-    <item*|<code*|isosceles { x, } y { , a }><next-line>>
+    <item*|<code*|isosceles { x, } y { , a }>>
 
     <item*|<code*|isosceles { x, } u { , a }>>
   </description>
@@ -1053,23 +1033,22 @@
   <label|index-angle-136><label|index-height-137><label|index-orthocenter-138><label|index-altitude-139><label|index-bisector-140><label|index-median-141><label|index-circle-142><label|index-incircle-143>
 
   <\description>
-    <item*|<code*|angle(A, B, C)>>Degree measure of angle ABC.<next-line>
+    <item*|<code*|angle(A, B, C)>>Degree measure of angle ABC.
 
     <item*|<code*|height(A, B, C)>>Height of triangle ABC with respect to
-    vertex A.<next-line>
+    vertex A.
 
-    <item*|<code*|orthocenter(A, B, C)>>Orthocenter of triangle
-    ABC.<next-line>
+    <item*|<code*|orthocenter(A, B, C)>>Orthocenter of triangle ABC.
 
     <item*|<code*|altitude(A, B, C)>>Altitude of triangle ABC with respect to
-    vertex A.<next-line>
+    vertex A.
 
-    <item*|<code*|bisector(A, B, C)>>Bisector of angle ABC.<next-line>
+    <item*|<code*|bisector(A, B, C)>>Bisector of angle ABC.
 
     <item*|<code*|median(A, B, C)>>Median of triangle ABC with respect to
-    vertex A.<next-line>
+    vertex A.
 
-    <item*|<code*|circle(A, B, C)>>Circumcircle of triangle ABC.<next-line>
+    <item*|<code*|circle(A, B, C)>>Circumcircle of triangle ABC.
 
     <item*|<code*|incircle(A, B, C)>>Incircle of triangle ABC.
   </description>
@@ -1101,9 +1080,9 @@
   quadrilateral assignments>
 
   <\description>
-    <item*|<code*|parallelogram { x, } y, a { , b }><next-line>>
+    <item*|<code*|parallelogram { x, } y, a { , b }>>
 
-    <item*|<code*|rectangle { x, } y, { , b }><next-line>>
+    <item*|<code*|rectangle { x, } y, { , b }>>
 
     <item*|<code*|square { x { , b } }>>
   </description>
@@ -1115,10 +1094,9 @@
 
   <\description>
     <item*|<code*|parallelogram>>Assigns a parallelogram such as x = 5, y = 4
-    and a = 75\<degree\>.<next-line>
+    and a = 75\<degree\>.
 
-    <item*|<code*|rectangle>>Assigns a golden rectangle such as x =
-    6.<next-line>
+    <item*|<code*|rectangle>>Assigns a golden rectangle such as x = 6.
 
     <item*|<code*|square>>Assigns a square such as x = 4.
   </description>
@@ -1242,24 +1220,23 @@
   <label|index-color-154><label|index-scale-factor-155><label|index-point-shape-156><label|index-line-style-157><label|index-partition-158><label|index-direction-159><label|index-endings-160><label|index-font-161><label|index-black-162><label|index-darkgray-163><label|index-gray-164><label|index-lightgray-165><label|index-white-166><label|index-red-167><label|index-green-168><label|index-blue-169><label|index-cyan-170><label|index-magenta-171><label|index-yellow-172><label|index-dot-173><label|index-disc-174><label|index-box-175><label|index-plus-176><label|index-cross-177><label|index-full-178><label|index-dashed-179><label|index-dotted-180><label|index-entire-181><label|index-half-182><label|index-forth-183><label|index-back-184><label|index-none-185><label|index-arrow-186><label|index-arrows-187><label|index-font-188>
 
   <\description>
-    <item*|<cite*|Color>><code*|black><nbsp>(default),<nbsp><code*|darkgray>,<nbsp><code*|gray>,<nbsp><code*|lightgray>,<nbsp><code*|white>,<nbsp><code*|red>,<nbsp><code*|green>,<nbsp><code*|blue>,<nbsp><code*|cyan>,<nbsp><code*|magenta>,<nbsp><code*|yellow>.<next-line>
+    <item*|<cite*|Color>><code*|black><nbsp>(default),<nbsp><code*|darkgray>,<nbsp><code*|gray>,<nbsp><code*|lightgray>,<nbsp><code*|white>,<nbsp><code*|red>,<nbsp><code*|green>,<nbsp><code*|blue>,<nbsp><code*|cyan>,<nbsp><code*|magenta>,<nbsp><code*|yellow>.
 
-    <item*|<cite*|Scale factor>>A number greater than 0 (default:
-    1).<next-line>
+    <item*|<cite*|Scale factor>>A number greater than 0 (default: 1).
 
-    <item*|<cite*|Point shape>><code*|dot><nbsp>(default),<nbsp><code*|disc>,<nbsp><code*|box>,<nbsp><code*|plus>,<nbsp><code*|cross>.<next-line>
+    <item*|<cite*|Point shape>><code*|dot><nbsp>(default),<nbsp><code*|disc>,<nbsp><code*|box>,<nbsp><code*|plus>,<nbsp><code*|cross>.
 
-    <item*|<cite*|Line style>><code*|full><nbsp>(default),<nbsp><code*|dashed>,<nbsp><code*|dotted>.<next-line>
+    <item*|<cite*|Line style>><code*|full><nbsp>(default),<nbsp><code*|dashed>,<nbsp><code*|dotted>.
 
-    <item*|<cite*|Partition>><code*|entire><nbsp>(default),<nbsp><code*|half>.<next-line>
+    <item*|<cite*|Partition>><code*|entire><nbsp>(default),<nbsp><code*|half>.
 
-    <item*|<cite*|Direction>><code*|forth><nbsp>(default),<nbsp><code*|back>.<next-line>
+    <item*|<cite*|Direction>><code*|forth><nbsp>(default),<nbsp><code*|back>.
 
-    <item*|<cite*|Endings>><code*|none><nbsp>(default),<nbsp><code*|arrow>,<nbsp><code*|arrows>.<next-line>
+    <item*|<cite*|Endings>><code*|none><nbsp>(default),<nbsp><code*|arrow>,<nbsp><code*|arrows>.
 
     <item*|<cite*|Conics draw step>>An angular parameter (default:
     3\<degree\>) setting the current drawing step (with respect of the
-    parametric representation).<next-line>
+    parametric representation).
 
     <item*|<cite*|Font>><code*|font(><var|s><code*|)><nbsp>where<nbsp><var|s><nbsp>is
     a string containing the font description.
@@ -1283,68 +1260,64 @@
 
   <\description>
     <item*|<code*|draw A<nbsp>><var|list>>Draws point A,
-    where<nbsp><var|list><nbsp>may contain color, scale and shape
-    parameters.<next-line>
+    where<nbsp><var|list><nbsp>may contain color, scale and shape parameters.
 
     <item*|<code*|draw v O<nbsp>><var|list>>Draws vector v from point O,
     where<nbsp><var|list><nbsp>may contain color, scale and style parameters.
-    The scale factor determines the line thickness.<next-line>
+    The scale factor determines the line thickness.
 
     <item*|<code*|draw s<nbsp>><var|list>>Draws the open path corresponding
     to set s, where<nbsp><var|list><nbsp>may contain color, scale, style,
-    direction and endings parameters.<next-line>
+    direction and endings parameters.
 
     <item*|<code*|draw (s)<nbsp>><var|list>>Draws the polygon corresponding
     to set s, where<nbsp><var|list><nbsp>may contain color, scale, style,
-    direction and endings parameters.<next-line>
+    direction and endings parameters.
 
     <item*|<code*|draw [s] {<nbsp>><var|color><code*|<nbsp>}>>Fills the
-    polygon corresponding to set s.<next-line>
+    polygon corresponding to set s.
 
     <item*|<code*|draw [s] a<nbsp>><var|list>>Hatches the polygon
     corresponding to set s, where<nbsp><var|list><nbsp>may contain color and
     scale parameters. The angular parameter a determines the direction of the
     hatches. The scale factor determines the spacing of the hatches (default:
-    1.5 mm).<next-line>
+    1.5 mm).
 
     <item*|<code*|draw l<nbsp>><var|list>>Draws line l
     where<nbsp><var|list><nbsp>may contain color, scale, style, partition and
     direction parameters. Using<nbsp><code*|half><nbsp>yields the ray having
     same origin and direction than line l, using
     both<nbsp><code*|half><nbsp>and<nbsp><code*|back><nbsp>yields the ray
-    with reverse direction.<next-line>
+    with reverse direction.
 
     <item*|<code*|draw c<nbsp>><var|list>>Draws circle c
-    where<nbsp><var|list><nbsp>may contain color, scale and style
-    parameters.<next-line>
+    where<nbsp><var|list><nbsp>may contain color, scale and style parameters.
 
     <item*|<code*|draw c a b<nbsp>><var|list>>Draws arc of circle c from
     polar angle a to polar angle b (with respect to the center of c)
     where<nbsp><var|list><nbsp>may contain color, scale, style, direction and
-    endings parameters.<next-line>
+    endings parameters.
 
-    <item*|<code*|draw [c] {<nbsp>><var|color><code*|<nbsp>}>>Fills circle
-    c.<next-line>
+    <item*|<code*|draw [c] {<nbsp>><var|color><code*|<nbsp>}>>Fills circle c.
 
     <item*|<code*|draw [c] a<nbsp>><var|list>>Hatches circle c
     where<nbsp><var|list><nbsp>may contain color and scale parameters. The
     angular parameter a determines the direction of the hatches. The scale
-    factor determines the spacing of the hatches (default: 1.5
-    mm).<next-line>
+    factor determines the spacing of the hatches (default: 1.5 mm).
 
     <item*|<code*|draw c<nbsp>><var|list>>Draws conic c
     where<nbsp><var|list><nbsp>may contain color, scale, style and step
-    parameters.<next-line>
+    parameters.
 
     <item*|<code*|draw c a b<nbsp>><var|list>>Draws conic c from argument a
     to argument b (with respect to the parametric representation of c)
     where<nbsp><var|list><nbsp>may contain color, scale, style, direction,
-    endings and step parameters.<next-line>
+    endings and step parameters.
 
     <item*|<code*|draw l A a<nbsp>><var|list>>Writes string l with respect to
     point A in direction a, where<nbsp><var|list><nbsp>may contain color,
     scale and font parameters. The scale factor determines the distance from
-    the center of the string to the point.<next-line>
+    the center of the string to the point.
 
     <item*|<code*|draw l s a<nbsp>><var|list>>Writes string l with respect to
     the middle of segment s in direction a, where<nbsp><var|list><nbsp>may
@@ -1359,7 +1332,7 @@
 
   <\description>
     <item*|<code*|scale z>>Sets the value of the length unit. (Default: 1
-    cm.)<next-line>
+    cm.)
 
     <item*|<code*|box x, y, x', y' { , z }>>
 
@@ -1445,16 +1418,15 @@
   <subsubsection*|Label parameters>
 
   <\description>
-    <item*|<cite*|Segment mark shape>><code*|simple><nbsp>(default),<nbsp><code*|double>,<nbsp><code*|triple>,<nbsp><code*|cross>.<next-line>
+    <item*|<cite*|Segment mark shape>><code*|simple><nbsp>(default),<nbsp><code*|double>,<nbsp><code*|triple>,<nbsp><code*|cross>.
 
-    <item*|<cite*|Angle mark shape>><code*|simple><nbsp>(default),<nbsp><code*|double>,<nbsp><code*|triple>,<nbsp><code*|right>,<nbsp><code*|forth>,<nbsp><code*|back>.<next-line>
+    <item*|<cite*|Angle mark shape>><code*|simple><nbsp>(default),<nbsp><code*|double>,<nbsp><code*|triple>,<nbsp><code*|right>,<nbsp><code*|forth>,<nbsp><code*|back>.
 
-    <item*|<cite*|Angle mark decoration>><code*|none><nbsp>(default),<nbsp><code*|dotted>,<nbsp><code*|dashed>.<next-line>
+    <item*|<cite*|Angle mark decoration>><code*|none><nbsp>(default),<nbsp><code*|dotted>,<nbsp><code*|dashed>.
 
-    <item*|<cite*|Color>><code*|black><nbsp>(default),<nbsp><code*|darkgray>,<nbsp><code*|gray>,<nbsp><code*|lightgray>,<nbsp><code*|white>,<nbsp><code*|red>,<nbsp><code*|green>,<nbsp><code*|blue>,<nbsp><code*|cyan>,<nbsp><code*|magenta>,<nbsp><code*|yellow>.<next-line>
+    <item*|<cite*|Color>><code*|black><nbsp>(default),<nbsp><code*|darkgray>,<nbsp><code*|gray>,<nbsp><code*|lightgray>,<nbsp><code*|white>,<nbsp><code*|red>,<nbsp><code*|green>,<nbsp><code*|blue>,<nbsp><code*|cyan>,<nbsp><code*|magenta>,<nbsp><code*|yellow>.
 
-    <item*|<cite*|Scale factor>>A number greater than 0 (default:
-    1).<next-line>
+    <item*|<cite*|Scale factor>>A number greater than 0 (default: 1).
 
     <item*|<cite*|Font>><code*|font(><var|s><code*|)><nbsp>where<nbsp><var|s><nbsp>is
     a string containing the font description.
@@ -1464,8 +1436,7 @@
 
   <\description>
     <item*|<code*|label s<nbsp>><var|list>>Marks segment s
-    where<nbsp><var|list><nbsp>may contain shape, color and scale
-    parameters.<next-line>
+    where<nbsp><var|list><nbsp>may contain shape, color and scale parameters.
 
     <item*|<code*|label B, A, C<nbsp>><var|list>>Marks angle BAC (i.e. angle
     from ray AB to ray AC in anticlockwise direction)
@@ -1473,8 +1444,7 @@
     parameters. The<nbsp><code*|forth><nbsp>and<nbsp><code*|back><nbsp>shape
     yield arrowed angle marks (respectively in direct and reverse direction).
     The<nbsp><code*|dotted><nbsp>decoration adds a dot inside the angle mark.
-    The<nbsp><code*|dashed><nbsp>decoration adds a tick on the angle
-    mark.<next-line>
+    The<nbsp><code*|dashed><nbsp>decoration adds a tick on the angle mark.
 
     <item*|<code*|label P a<nbsp>><var|list>>Assuming variable P contains a
     point, writes the name of P in direction a from P,
@@ -1490,8 +1460,7 @@
   <subsubsection*|Input commands>
 
   <\description>
-    <item*|<code*|read s>>Opens the file whose name is string s for
-    reading.<next-line>
+    <item*|<code*|read s>>Opens the file whose name is string s for reading.
 
     <item*|<code*|close>>Closes the previously opened data file.
   </description>
@@ -1503,7 +1472,7 @@
   functions>
 
   <\description>
-    <item*|<code*|number(s)>>Reads a number from current input.<next-line>
+    <item*|<code*|number(s)>>Reads a number from current input.
 
     <item*|<code*|string(s)>>Reads a string from current input.
   </description>
@@ -1534,19 +1503,19 @@
   <\description>
     <item*|<code*|write s>>Opens the file whose name is string s for writing.
     If the file exists, its content will be overwritten. Otherwise, it is
-    created.<next-line>
+    created.
 
     <item*|<code*|append s>>Opens the file whose name is string s for
     appending. The file is created if it does not exist. Writing starts at
-    the end of the file.<next-line>
+    the end of the file.
 
-    <item*|<code*|release>>Closes previously opened result file.<next-line>
+    <item*|<code*|release>>Closes previously opened result file.
 
     <item*|<code*|print<nbsp>><var|list>>Writes<nbsp><var|list><nbsp>to
-    current result file, or to standard output if none is open.<next-line>
+    current result file, or to standard output if none is open.
 
     <item*|<code*|error<nbsp>><var|list>>Writes<nbsp><var|list><nbsp>to
-    standard error stream.<next-line>
+    standard error stream.
 
     <item*|<code*|output<nbsp>><var|list>>Writes<nbsp><var|list><nbsp>to
     output file. This may be useful to include low level PostScript or
@@ -1587,9 +1556,9 @@
   <label|index-not-241><label|index-and-242><label|index-or-243>
 
   <\description>
-    <item*|<code*|not a>>Negation of assertion a.<next-line>
+    <item*|<code*|not a>>Negation of assertion a.
 
-    <item*|<code*|a and b>>Disjunction of assertions a and b.<next-line>
+    <item*|<code*|a and b>>Disjunction of assertions a and b.
 
     <item*|<code*|a or b>>Conjunction of assertions a and b.
   </description>
@@ -1599,7 +1568,7 @@
   <label|index-true-244><label|index-false-245>
 
   <\description>
-    <item*|<code*|true><next-line>>
+    <item*|<code*|true>>
 
     <item*|<code*|false>>
   </description>
@@ -1609,9 +1578,9 @@
   <\description>
     <item*|<code*|a == b>>Checks whether objects a and b are equal, i.e. have
     the same internal representation. Objects may be numbers, strings,
-    points, vectors, sets, lines, circles or conics.<next-line>
+    points, vectors, sets, lines, circles or conics.
 
-    <item*|<code*|a != b>>Negation of the former.<next-line>
+    <item*|<code*|a != b>>Negation of the former.
 
     <item*|<code*|x \<less\> y>>
 
@@ -1627,7 +1596,7 @@
   <label|index-in-246><label|index-empty-247>
 
   <\description>
-    <item*|<code*|A in s>>Checks whether point A belongs to set s.<next-line>
+    <item*|<code*|A in s>>Checks whether point A belongs to set s.
 
     <item*|<code*|empty(s)>>Checks for emptiness of set s.
   </description>
@@ -1638,31 +1607,30 @@
 
   <\description>
     <item*|<code*|A on s>>Checks whether point A is on object s, where s may
-    be a set (considered as an open path), a line, a circle or a
-    conic.<next-line>
+    be a set (considered as an open path), a line, a circle or a conic.
 
     <item*|<code*|collinear(A, B, C)>>Checks whether points A, B and C are
-    collinear.<next-line>
+    collinear.
 
     <item*|<code*|collinear(u, v)>>Checks whether vectors u and v are
-    collinear, i.e. have same or opposite directions.<next-line>
+    collinear, i.e. have same or opposite directions.
 
     <item*|<code*|parallel(l, l')>>
 
     <item*|<code*|perpendicular(l, l')>>Direction comparison of lines l and
-    l'.<next-line>
+    l'.
 
     <item*|<code*|ellipse(c)>>
 
     <item*|<code*|hyperbola(c)>>
 
-    <item*|<code*|parabola(c)>>Type checking of conic c.<next-line>
+    <item*|<code*|parabola(c)>>Type checking of conic c.
 
     <item*|<code*|isosceles(A, B, C)>>
 
     <item*|<code*|equilateral(A, B, C)>>
 
-    <item*|<code*|right(A, B, C)>>Type checking of triangle ABC.<next-line>
+    <item*|<code*|right(A, B, C)>>Type checking of triangle ABC.
 
     <item*|<code*|parallelogram(A, B, C, D)>>
 
@@ -1676,9 +1644,9 @@
   <label|index-eps-261><label|index-pstricks-262><label|index-display-263>
 
   <\description>
-    <item*|<code*|eps>>True with<nbsp><samp|eukleides>.<next-line>
+    <item*|<code*|eps>>True with<nbsp><samp|eukleides>.
 
-    <item*|<code*|pstricks>>True with<nbsp><samp|euktopst>.<next-line>
+    <item*|<code*|pstricks>>True with<nbsp><samp|euktopst>.
 
     <item*|<code*|display>>True within GUI.
   </description>
@@ -1692,13 +1660,13 @@
 
   <\description>
     <item*|<code*|while<nbsp>><var|assertion><nbsp><var|block><code*|<nbsp>end>>Repeats<nbsp><var|block><nbsp>while<nbsp><var|assertion><nbsp>is
-    true.<next-line>
+    true.
 
     <item*|<code*|for i = a to b { step c
     }<nbsp>><var|block><code*|<nbsp>end>>Repeats<nbsp><var|block><nbsp>while
     incrementing number i by c (default: 1), from a to b. Numbers b and c are
     evaluated at each step. Iteration ends as soon as i is greater than or
-    smaller than b, depending on the sign of c.<next-line>
+    smaller than b, depending on the sign of c.
 
     <item*|<code*|for P in s<nbsp>><var|block><code*|<nbsp>end>>Repeats<nbsp><var|block><nbsp>while
     point P runs through set s.
@@ -1793,10 +1761,10 @@
 
   <\description>
     <item*|<code*|mobile<nbsp>><var|var><code*|<nbsp>{ (><var|state><code*|)
-    } =<nbsp>><var|point><next-line>>
+    } =<nbsp>><var|point>>
 
     <item*|<code*|mobile<nbsp>><var|var><code*|<nbsp>(
-    {<nbsp>><var|state><code*|, } z) =<nbsp>><var|point><next-line>>
+    {<nbsp>><var|state><code*|, } z) =<nbsp>><var|point>>
 
     <item*|<code*|mobile<nbsp>><var|var><code*|<nbsp>(
     {<nbsp>><var|state><code*|, } x, y, x', y' { , z } ) =<nbsp>><var|point>>
@@ -1826,7 +1794,7 @@
 
   <\description>
     <item*|<code*|horizontal<nbsp>><var|variable><code*|<nbsp>(><var|state><code*|<nbsp>{
-    , x, y } { , z }) = t><next-line>>
+    , x, y } { , z }) = t>>
 
     <item*|<code*|vertical<nbsp>><var|variable><code*|<nbsp>(><var|state><code*|<nbsp>{
     , x, y } { , z }) = t>>
@@ -1894,12 +1862,12 @@
     <item*|<code*|-l, --locale{=><var|lang><code*|}>>Use keywords localized
     in language<nbsp><var|lang>. With no argument given, the current locale
     is set to the value of the LANG environment variable. This feature may be
-    disabled.<next-line>
+    disabled.
 
     <item*|<code*|-<with|font-family|tt|#>,
-    --interactive=><var|string>>Modify interactive variables.<next-line>
+    --interactive=><var|string>>Modify interactive variables.
 
-    <item*|<code*|-v, --version>>Print version number and exit.<next-line>
+    <item*|<code*|-v, --version>>Print version number and exit.
 
     <item*|<code*|-h, --help>>Print a short help and exit.
   </description>
@@ -1909,7 +1877,7 @@
   <\description>
     <item*|<code*|-o, --output{=><var|output_file><code*|}>>Set an output
     file name. With no argument given, the output stream is set to standard
-    output.<next-line>
+    output.
 
     <item*|<code*|-b, --batchmode{=><var|data_file><code*|}>>Don't stop for
     input. If given, use<nbsp><var|data_file><nbsp>instead of standard input.
@@ -1924,7 +1892,7 @@
 
   <\description>
     <item*|<code*|-i, --include=><var|string>>Include LaTeX directives in
-    preamble.<next-line>
+    preamble.
 
     <item*|<code*|-d, --data=><var|data_file>>Use specific data.
   </description>
@@ -1985,395 +1953,371 @@
 
 <\references>
   <\collection>
-    <associate|auto-1|<tuple|?|7|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-10|<tuple|<with|font-family|<quote|tt>|%%>|9|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-11|<tuple|2|9|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-12|<tuple|2.1|9|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-13|<tuple|2.1|9|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-14|<tuple|2.2|10|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-15|<tuple|2.2|10|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-16|<tuple|<with|font-family|<quote|tt>|u *
-    v>|10|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-17|<tuple|2.3|10|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-18|<tuple|2.3|10|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-19|<tuple|<with|font-family|<quote|tt>|s[i]>|11|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-2|<tuple|1|7|../.Xmacs/texts/scratch/no_name_7.tm>>
+    <associate|auto-1|<tuple|?|7>>
+    <associate|auto-10|<tuple|<with|font-family|<quote|tt>|%%>|9>>
+    <associate|auto-11|<tuple|2|9>>
+    <associate|auto-12|<tuple|2.1|9>>
+    <associate|auto-13|<tuple|2.1|9>>
+    <associate|auto-14|<tuple|2.2|9>>
+    <associate|auto-15|<tuple|2.2|9>>
+    <associate|auto-16|<tuple|<with|font-family|<quote|tt>|u * v>|10>>
+    <associate|auto-17|<tuple|2.3|10>>
+    <associate|auto-18|<tuple|2.3|10>>
+    <associate|auto-19|<tuple|<with|font-family|<quote|tt>|s[i]>|10>>
+    <associate|auto-2|<tuple|1|7>>
     <associate|auto-20|<tuple|<with|font-family|<quote|tt>|hexagon(O, r,
-    a)>|11|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-21|<tuple|<with|font-family|<quote|tt>|empty>|11|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-22|<tuple|2.4|12|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-23|<tuple|2.4|12|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-24|<tuple|2.5|12|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-25|<tuple|2.5|12|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-26|<tuple|2.5|12|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-27|<tuple|2.6|13|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-28|<tuple|2.6|13|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-29|<tuple|3|14|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-3|<tuple|1.1|7|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-30|<tuple|3.1|14|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-31|<tuple|3.1|14|../.Xmacs/texts/scratch/no_name_7.tm>>
+    a)>|10>>
+    <associate|auto-21|<tuple|<with|font-family|<quote|tt>|empty>|11>>
+    <associate|auto-22|<tuple|2.4|11>>
+    <associate|auto-23|<tuple|2.4|11>>
+    <associate|auto-24|<tuple|2.5|11>>
+    <associate|auto-25|<tuple|2.5|11>>
+    <associate|auto-26|<tuple|2.5|11>>
+    <associate|auto-27|<tuple|2.6|12>>
+    <associate|auto-28|<tuple|2.6|12>>
+    <associate|auto-29|<tuple|3|12>>
+    <associate|auto-3|<tuple|1.1|7>>
+    <associate|auto-30|<tuple|3.1|12>>
+    <associate|auto-31|<tuple|3.1|13>>
     <associate|auto-32|<tuple|<with|font-family|<quote|tt>|homothecy(o, A,
-    x)>|14|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-33|<tuple|3.2|14|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-34|<tuple|3.2|14|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-35|<tuple|3.3|15|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-36|<tuple|3.3|15|../.Xmacs/texts/scratch/no_name_7.tm>>
+    x)>|13>>
+    <associate|auto-33|<tuple|3.2|13>>
+    <associate|auto-34|<tuple|3.2|13>>
+    <associate|auto-35|<tuple|3.3|13>>
+    <associate|auto-36|<tuple|3.3|13>>
     <associate|auto-37|<tuple|<with|font-family|<quote|tt>|triangle { x, } z,
-    v { , a }>|15|../.Xmacs/texts/scratch/no_name_7.tm>>
+    v { , a }>|14>>
     <associate|auto-38|<tuple|<with|font-family|<quote|tt>|right { x, } u { ,
-    a }>|15|../.Xmacs/texts/scratch/no_name_7.tm>>
+    a }>|14>>
     <associate|auto-39|<tuple|<with|font-family|<quote|tt>|isosceles { x, } u
-    { , a }>|15|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-4|<tuple|1.2|8|../.Xmacs/texts/scratch/no_name_7.tm>>
+    { , a }>|14>>
+    <associate|auto-4|<tuple|1.2|8>>
     <associate|auto-40|<tuple|<with|font-family|<quote|tt>|equilateral { x {
-    , a } }>|15|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-41|<tuple|3.4|16|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-42|<tuple|3.4|16|../.Xmacs/texts/scratch/no_name_7.tm>>
+    , a } }>|14>>
+    <associate|auto-41|<tuple|3.4|14>>
+    <associate|auto-42|<tuple|3.4|15>>
     <associate|auto-43|<tuple|<with|font-family|<quote|tt>|square { x { , b }
-    }>|16|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-44|<tuple|<with|font-family|<quote|tt>|square>|16|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-45|<tuple|3.5|16|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-46|<tuple|3.5|17|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-47|<tuple|4|17|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-48|<tuple|4.1|17|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-49|<tuple|4.1|18|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-5|<tuple|1.2|8|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-50|<tuple|<with|font-shape|<quote|italic>|Font>|19|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-51|<tuple|<with|font-shape|<quote|italic>|Font>|19|../.Xmacs/texts/scratch/no_name_7.tm>>
+    }>|15>>
+    <associate|auto-44|<tuple|<with|font-family|<quote|tt>|square>|15>>
+    <associate|auto-45|<tuple|3.5|15>>
+    <associate|auto-46|<tuple|3.5|15>>
+    <associate|auto-47|<tuple|4|15>>
+    <associate|auto-48|<tuple|4.1|15>>
+    <associate|auto-49|<tuple|4.1|17>>
+    <associate|auto-5|<tuple|1.2|8>>
+    <associate|auto-50|<tuple|<with|font-shape|<quote|italic>|Font>|17>>
+    <associate|auto-51|<tuple|<with|font-shape|<quote|italic>|Font>|17>>
     <associate|auto-52|<tuple|<with|font-family|<quote|tt>|draw l s a
-    <no-break><specific|screen|<resize|<move|<with|color|<quote|#A0A0FF>|->|-0.3em|>|0em||0em|>>><with|font-family|<quote|tt>|font-shape|<quote|italic>|list>|20|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-53|<tuple|4.2|20|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-54|<tuple|4.2|21|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-55|<tuple|<with|font-shape|<quote|italic>|Font>|21|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-56|<tuple|5|22|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-57|<tuple|5.1|22|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-58|<tuple|5.1|22|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-59|<tuple|<with|font-family|<quote|tt>|close>|22|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-6|<tuple|<with|font-family|<quote|tt>|x mod
-    y>|8|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-60|<tuple|<with|font-family|<quote|tt>|string(s)>|22|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-61|<tuple|5.2|23|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-62|<tuple|5.2|23|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-63|<tuple|<with|font-family|<quote|tt>|a or
-    b>|23|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-64|<tuple|<with|font-family|<quote|tt>|false>|23|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-65|<tuple|<with|font-family|<quote|tt>|x \<gtr\>=
-    y>|23|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-66|<tuple|<with|font-family|<quote|tt>|empty(s)>|24|../.Xmacs/texts/scratch/no_name_7.tm>>
+    <no-break><specific|screen|<resize|<move|<with|color|<quote|#A0A0FF>|->|-0.3em|>|0em||0em|>>><with|font-family|<quote|tt>|font-shape|<quote|italic>|list>|18>>
+    <associate|auto-53|<tuple|4.2|18>>
+    <associate|auto-54|<tuple|4.2|19>>
+    <associate|auto-55|<tuple|<with|font-shape|<quote|italic>|Font>|19>>
+    <associate|auto-56|<tuple|5|20>>
+    <associate|auto-57|<tuple|5.1|20>>
+    <associate|auto-58|<tuple|5.1|20>>
+    <associate|auto-59|<tuple|<with|font-family|<quote|tt>|close>|20>>
+    <associate|auto-6|<tuple|<with|font-family|<quote|tt>|x mod y>|8>>
+    <associate|auto-60|<tuple|<with|font-family|<quote|tt>|string(s)>|20>>
+    <associate|auto-61|<tuple|5.2|20>>
+    <associate|auto-62|<tuple|5.2|21>>
+    <associate|auto-63|<tuple|<with|font-family|<quote|tt>|a or b>|21>>
+    <associate|auto-64|<tuple|<with|font-family|<quote|tt>|false>|21>>
+    <associate|auto-65|<tuple|<with|font-family|<quote|tt>|x \<gtr\>= y>|21>>
+    <associate|auto-66|<tuple|<with|font-family|<quote|tt>|empty(s)>|21>>
     <associate|auto-67|<tuple|<with|font-family|<quote|tt>|square(A, B, C,
-    D)>|24|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-68|<tuple|<with|font-family|<quote|tt>|display>|24|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-69|<tuple|5.3|24|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-7|<tuple|<with|font-family|<quote|tt>|clamp(x, y,
-    z)>|9|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-70|<tuple|5.4|25|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-71|<tuple|5.5|25|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-72|<tuple|5.6|25|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-73|<tuple|5.6|25|../.Xmacs/texts/scratch/no_name_7.tm>>
+    D)>|22>>
+    <associate|auto-68|<tuple|<with|font-family|<quote|tt>|display>|22>>
+    <associate|auto-69|<tuple|5.3|22>>
+    <associate|auto-7|<tuple|<with|font-family|<quote|tt>|clamp(x, y, z)>|8>>
+    <associate|auto-70|<tuple|5.4|22>>
+    <associate|auto-71|<tuple|5.5|23>>
+    <associate|auto-72|<tuple|5.6|23>>
+    <associate|auto-73|<tuple|5.6|23>>
     <associate|auto-74|<tuple|<with|font-family|<quote|tt>|mobile
     <no-break><specific|screen|<resize|<move|<with|color|<quote|#A0A0FF>|->|-0.3em|>|0em||0em|>>><with|font-family|<quote|tt>|font-shape|<quote|italic>|var><with|font-family|<quote|tt>|
     <no-break><specific|screen|<resize|<move|<with|color|<quote|#A0A0FF>|->|-0.3em|>|0em||0em|>>(
     { <no-break><specific|screen|<resize|<move|<with|color|<quote|#A0A0FF>|->|-0.3em|>|0em||0em|>>><with|font-family|<quote|tt>|font-shape|<quote|italic>|state><with|font-family|<quote|tt>|,
-    } x, y, x', y' { , z } ) = <no-break><specific|screen|<resize|<move|<with|color|<quote|#A0A0FF>|->|-0.3em|>|0em||0em|>>><with|font-family|<quote|tt>|font-shape|<quote|italic>|point>|26|../.Xmacs/texts/scratch/no_name_7.tm>>
+    } x, y, x', y' { , z } ) = <no-break><specific|screen|<resize|<move|<with|color|<quote|#A0A0FF>|->|-0.3em|>|0em||0em|>>><with|font-family|<quote|tt>|font-shape|<quote|italic>|point>|23>>
     <associate|auto-75|<tuple|<with|font-family|<quote|tt>|vertical
     <no-break><specific|screen|<resize|<move|<with|color|<quote|#A0A0FF>|->|-0.3em|>|0em||0em|>>><with|font-family|<quote|tt>|font-shape|<quote|italic>|variable><with|font-family|<quote|tt>|
     <no-break><specific|screen|<resize|<move|<with|color|<quote|#A0A0FF>|->|-0.3em|>|0em||0em|>>(><with|font-family|<quote|tt>|font-shape|<quote|italic>|state><with|font-family|<quote|tt>|
     <no-break><specific|screen|<resize|<move|<with|color|<quote|#A0A0FF>|->|-0.3em|>|0em||0em|>>{
-    , x, y } { , z }) = t>|26|../.Xmacs/texts/scratch/no_name_7.tm>>
+    , x, y } { , z }) = t>|23>>
     <associate|auto-76|<tuple|<with|font-family|<quote|tt>|vertical
     <no-break><specific|screen|<resize|<move|<with|color|<quote|#A0A0FF>|->|-0.3em|>|0em||0em|>>><with|font-family|<quote|tt>|font-shape|<quote|italic>|variable><with|font-family|<quote|tt>|
     <no-break><specific|screen|<resize|<move|<with|color|<quote|#A0A0FF>|->|-0.3em|>|0em||0em|>>(><with|font-family|<quote|tt>|font-shape|<quote|italic>|state><with|font-family|<quote|tt>|
     <no-break><specific|screen|<resize|<move|<with|color|<quote|#A0A0FF>|->|-0.3em|>|0em||0em|>>{
-    , x, y } { , z }) = t>|26|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-77|<tuple|6|26|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-78|<tuple|6.1|26|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-79|<tuple|6.1|27|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-8|<tuple|1.3|9|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-80|<tuple|<with|font-family|<quote|tt>|-h,
-    --help>|27|../.Xmacs/texts/scratch/no_name_7.tm>>
+    , x, y } { , z }) = t>|24>>
+    <associate|auto-77|<tuple|6|24>>
+    <associate|auto-78|<tuple|6.1|24>>
+    <associate|auto-79|<tuple|6.1|24>>
+    <associate|auto-8|<tuple|1.3|9>>
+    <associate|auto-80|<tuple|<with|font-family|<quote|tt>|-h, --help>|24>>
     <associate|auto-81|<tuple|<with|font-family|<quote|tt>|-b,
-    --batchmode{=><with|font-family|<quote|tt>|font-shape|<quote|italic>|data_file><with|font-family|<quote|tt>|}>|27|../.Xmacs/texts/scratch/no_name_7.tm>>
+    --batchmode{=><with|font-family|<quote|tt>|font-shape|<quote|italic>|data_file><with|font-family|<quote|tt>|}>|24>>
     <associate|auto-82|<tuple|<with|font-family|<quote|tt>|-a,
-    --animate=><with|font-family|<quote|tt>|font-shape|<quote|italic>|string>|27|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-83|<tuple|6.2|27|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-84|<tuple|6.3|27|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|auto-9|<tuple|1.3|9|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-abs-27|<tuple|<with|font-family|<quote|tt>|x mod
-    y>|8|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-abscissa-46|<tuple|2.1|9|../.Xmacs/texts/scratch/no_name_7.tm>>
+    --animate=><with|font-family|<quote|tt>|font-shape|<quote|italic>|string>|24>>
+    <associate|auto-83|<tuple|6.2|24>>
+    <associate|auto-84|<tuple|6.3|25>>
+    <associate|auto-9|<tuple|1.3|9>>
+    <associate|index-abs-27|<tuple|<with|font-family|<quote|tt>|x mod y>|8>>
+    <associate|index-abscissa-46|<tuple|2.1|9>>
     <associate|index-abscissa-54|<tuple|<with|font-family|<quote|tt>|u *
-    v>|10|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-abscissa-92|<tuple|2.4|12|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-acos-23|<tuple|<with|font-family|<quote|tt>|x mod
-    y>|8|../.Xmacs/texts/scratch/no_name_7.tm>>
+    v>|10>>
+    <associate|index-abscissa-92|<tuple|2.4|11>>
+    <associate|index-acos-23|<tuple|<with|font-family|<quote|tt>|x mod y>|8>>
     <associate|index-altitude-139|<tuple|<with|font-family|<quote|tt>|equilateral
-    { x { , a } }>|15|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-and-242|<tuple|5.2|23|../.Xmacs/texts/scratch/no_name_7.tm>>
+    { x { , a } }>|14>>
+    <associate|index-and-242|<tuple|5.2|21>>
     <associate|index-angle-136|<tuple|<with|font-family|<quote|tt>|equilateral
-    { x { , a } }>|15|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-angle-58|<tuple|<with|font-family|<quote|tt>|u *
-    v>|10|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-angular-parameters-9|<tuple|1.1|8|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-append-230|<tuple|<with|font-family|<quote|tt>|string(s)>|22|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-area-100|<tuple|2.5|12|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-area-67|<tuple|<with|font-family|<quote|tt>|s[i]>|11|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-arg-101|<tuple|2.5|12|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-arg-115|<tuple|2.6|13|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-arg-57|<tuple|<with|font-family|<quote|tt>|u *
-    v>|10|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-arg-68|<tuple|<with|font-family|<quote|tt>|s[i]>|11|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-arg-90|<tuple|2.4|12|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-arrow-186|<tuple|4.1|18|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-arrows-187|<tuple|4.1|18|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-asin-22|<tuple|<with|font-family|<quote|tt>|x mod
-    y>|8|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-atan-24|<tuple|<with|font-family|<quote|tt>|x mod
-    y>|8|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-back-184|<tuple|4.1|18|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-barycenter-49|<tuple|2.1|9|../.Xmacs/texts/scratch/no_name_7.tm>>
+    { x { , a } }>|14>>
+    <associate|index-angle-58|<tuple|<with|font-family|<quote|tt>|u * v>|10>>
+    <associate|index-angular-parameters-9|<tuple|1.1|8>>
+    <associate|index-append-230|<tuple|<with|font-family|<quote|tt>|string(s)>|20>>
+    <associate|index-area-100|<tuple|2.5|11>>
+    <associate|index-area-67|<tuple|<with|font-family|<quote|tt>|s[i]>|10>>
+    <associate|index-arg-101|<tuple|2.5|11>>
+    <associate|index-arg-115|<tuple|2.6|12>>
+    <associate|index-arg-57|<tuple|<with|font-family|<quote|tt>|u * v>|10>>
+    <associate|index-arg-68|<tuple|<with|font-family|<quote|tt>|s[i]>|10>>
+    <associate|index-arg-90|<tuple|2.4|11>>
+    <associate|index-arrow-186|<tuple|4.1|17>>
+    <associate|index-arrows-187|<tuple|4.1|17>>
+    <associate|index-asin-22|<tuple|<with|font-family|<quote|tt>|x mod y>|8>>
+    <associate|index-atan-24|<tuple|<with|font-family|<quote|tt>|x mod y>|8>>
+    <associate|index-back-184|<tuple|4.1|17>>
+    <associate|index-barycenter-49|<tuple|2.1|9>>
     <associate|index-bisector-140|<tuple|<with|font-family|<quote|tt>|equilateral
-    { x { , a } }>|15|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-bisector-71|<tuple|<with|font-family|<quote|tt>|s[i]>|11|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-bisector-88|<tuple|2.4|12|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-black-162|<tuple|4.1|18|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-blue-169|<tuple|4.1|18|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-box-175|<tuple|4.1|18|../.Xmacs/texts/scratch/no_name_7.tm>>
+    { x { , a } }>|14>>
+    <associate|index-bisector-71|<tuple|<with|font-family|<quote|tt>|s[i]>|10>>
+    <associate|index-bisector-88|<tuple|2.4|11>>
+    <associate|index-black-162|<tuple|4.1|17>>
+    <associate|index-blue-169|<tuple|4.1|17>>
+    <associate|index-box-175|<tuple|4.1|17>>
     <associate|index-box-190|<tuple|<with|font-family|<quote|tt>|draw l s a
-    <no-break><specific|screen|<resize|<move|<with|color|<quote|#A0A0FF>|->|-0.3em|>|0em||0em|>>><with|font-family|<quote|tt>|font-shape|<quote|italic>|list>|20|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-card-64|<tuple|<with|font-family|<quote|tt>|s[i]>|11|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-cat-42|<tuple|<with|font-family|<quote|tt>|%%>|9|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-ceil-29|<tuple|<with|font-family|<quote|tt>|x mod
-    y>|8|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-center-103|<tuple|2.5|12|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-center-117|<tuple|2.6|13|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-centroid-73|<tuple|<with|font-family|<quote|tt>|s[i]>|11|../.Xmacs/texts/scratch/no_name_7.tm>>
+    <no-break><specific|screen|<resize|<move|<with|color|<quote|#A0A0FF>|->|-0.3em|>|0em||0em|>>><with|font-family|<quote|tt>|font-shape|<quote|italic>|list>|18>>
+    <associate|index-card-64|<tuple|<with|font-family|<quote|tt>|s[i]>|10>>
+    <associate|index-cat-42|<tuple|<with|font-family|<quote|tt>|%%>|9>>
+    <associate|index-ceil-29|<tuple|<with|font-family|<quote|tt>|x mod y>|8>>
+    <associate|index-center-103|<tuple|2.5|11>>
+    <associate|index-center-117|<tuple|2.6|12>>
+    <associate|index-centroid-73|<tuple|<with|font-family|<quote|tt>|s[i]>|10>>
     <associate|index-circle-142|<tuple|<with|font-family|<quote|tt>|equilateral
-    { x { , a } }>|15|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-circle-97|<tuple|2.5|12|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-circle-related-functions-96|<tuple|2.5|12|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-circles-95|<tuple|2.5|12|../.Xmacs/texts/scratch/no_name_7.tm>>
+    { x { , a } }>|14>>
+    <associate|index-circle-97|<tuple|2.5|11>>
+    <associate|index-circle-related-functions-96|<tuple|2.5|11>>
+    <associate|index-circles-95|<tuple|2.5|11>>
     <associate|index-clamp-34|<tuple|<with|font-family|<quote|tt>|x mod
-    y>|8|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-clear-8|<tuple|1.1|7|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-collinear-249|<tuple|<with|font-family|<quote|tt>|empty(s)>|24|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-color-154|<tuple|4.1|18|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-commands-4|<tuple|1.1|7|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-comments-5|<tuple|1.1|7|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-conic-111|<tuple|2.6|13|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-conic-related-functions-107|<tuple|2.6|13|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-constant-numbers-12|<tuple|1.2|8|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-cos-20|<tuple|<with|font-family|<quote|tt>|x mod
-    y>|8|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-cross-177|<tuple|4.1|18|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-cyan-170|<tuple|4.1|18|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-darkgray-163|<tuple|4.1|18|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-dashed-179|<tuple|4.1|18|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-deg-25|<tuple|<with|font-family|<quote|tt>|x mod
-    y>|8|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-direction-159|<tuple|4.1|18|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-directives-2|<tuple|1.1|7|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-disc-174|<tuple|4.1|18|../.Xmacs/texts/scratch/no_name_7.tm>>
+    y>|8>>
+    <associate|index-clear-8|<tuple|1.1|8>>
+    <associate|index-collinear-249|<tuple|<with|font-family|<quote|tt>|empty(s)>|21>>
+    <associate|index-color-154|<tuple|4.1|17>>
+    <associate|index-commands-4|<tuple|1.1|7>>
+    <associate|index-comments-5|<tuple|1.1|7>>
+    <associate|index-conic-111|<tuple|2.6|12>>
+    <associate|index-conic-related-functions-107|<tuple|2.6|12>>
+    <associate|index-constant-numbers-12|<tuple|1.2|8>>
+    <associate|index-cos-20|<tuple|<with|font-family|<quote|tt>|x mod y>|8>>
+    <associate|index-cross-177|<tuple|4.1|17>>
+    <associate|index-cyan-170|<tuple|4.1|17>>
+    <associate|index-darkgray-163|<tuple|4.1|17>>
+    <associate|index-dashed-179|<tuple|4.1|17>>
+    <associate|index-deg-25|<tuple|<with|font-family|<quote|tt>|x mod y>|8>>
+    <associate|index-direction-159|<tuple|4.1|17>>
+    <associate|index-directives-2|<tuple|1.1|7>>
+    <associate|index-disc-174|<tuple|4.1|17>>
     <associate|index-display-263|<tuple|<with|font-family|<quote|tt>|square(A,
-    B, C, D)>|24|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-distance-48|<tuple|2.1|9|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-distance-89|<tuple|2.4|12|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-dot-173|<tuple|4.1|18|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-dotted-180|<tuple|4.1|18|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-eccentricity-114|<tuple|2.6|13|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-element-74|<tuple|<with|font-family|<quote|tt>|s[i]>|11|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-ellipse-108|<tuple|2.6|13|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-ellipse-252|<tuple|<with|font-family|<quote|tt>|empty(s)>|24|../.Xmacs/texts/scratch/no_name_7.tm>>
+    B, C, D)>|22>>
+    <associate|index-distance-48|<tuple|2.1|9>>
+    <associate|index-distance-89|<tuple|2.4|11>>
+    <associate|index-dot-173|<tuple|4.1|17>>
+    <associate|index-dotted-180|<tuple|4.1|17>>
+    <associate|index-eccentricity-114|<tuple|2.6|12>>
+    <associate|index-element-74|<tuple|<with|font-family|<quote|tt>|s[i]>|10>>
+    <associate|index-ellipse-108|<tuple|2.6|12>>
+    <associate|index-ellipse-252|<tuple|<with|font-family|<quote|tt>|empty(s)>|21>>
     <associate|index-empty-247|<tuple|<with|font-family|<quote|tt>|x \<gtr\>=
-    y>|23|../.Xmacs/texts/scratch/no_name_7.tm>>
+    y>|21>>
     <associate|index-empty-81|<tuple|<with|font-family|<quote|tt>|hexagon(O,
-    r, a)>|11|../.Xmacs/texts/scratch/no_name_7.tm>>
+    r, a)>|10>>
     <associate|index-empty-set-80|<tuple|<with|font-family|<quote|tt>|hexagon(O,
-    r, a)>|11|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-endings-160|<tuple|4.1|18|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-entire-181|<tuple|4.1|18|../.Xmacs/texts/scratch/no_name_7.tm>>
+    r, a)>|10>>
+    <associate|index-endings-160|<tuple|4.1|17>>
+    <associate|index-entire-181|<tuple|4.1|17>>
     <associate|index-eps-261|<tuple|<with|font-family|<quote|tt>|square(A, B,
-    C, D)>|24|../.Xmacs/texts/scratch/no_name_7.tm>>
+    C, D)>|22>>
     <associate|index-equilateral-135|<tuple|<with|font-family|<quote|tt>|isosceles
-    { x, } u { , a }>|15|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-equilateral-256|<tuple|<with|font-family|<quote|tt>|empty(s)>|24|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-error-233|<tuple|<with|font-family|<quote|tt>|string(s)>|22|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-exp-17|<tuple|<with|font-family|<quote|tt>|x mod
-    y>|8|../.Xmacs/texts/scratch/no_name_7.tm>>
+    { x, } u { , a }>|14>>
+    <associate|index-equilateral-256|<tuple|<with|font-family|<quote|tt>|empty(s)>|21>>
+    <associate|index-error-233|<tuple|<with|font-family|<quote|tt>|string(s)>|20>>
+    <associate|index-exp-17|<tuple|<with|font-family|<quote|tt>|x mod y>|8>>
     <associate|index-false-245|<tuple|<with|font-family|<quote|tt>|a or
-    b>|23|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-file-output-228|<tuple|<with|font-family|<quote|tt>|string(s)>|22|../.Xmacs/texts/scratch/no_name_7.tm>>
+    b>|21>>
+    <associate|index-file-output-228|<tuple|<with|font-family|<quote|tt>|string(s)>|20>>
     <associate|index-floor-30|<tuple|<with|font-family|<quote|tt>|x mod
-    y>|8|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-foci-118|<tuple|2.6|13|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-font-161|<tuple|4.1|18|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-font-188|<tuple|4.1|18|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-forth-183|<tuple|4.1|18|../.Xmacs/texts/scratch/no_name_7.tm>>
+    y>|8>>
+    <associate|index-foci-118|<tuple|2.6|12>>
+    <associate|index-font-161|<tuple|4.1|17>>
+    <associate|index-font-188|<tuple|4.1|17>>
+    <associate|index-forth-183|<tuple|4.1|17>>
     <associate|index-frame-191|<tuple|<with|font-family|<quote|tt>|draw l s a
-    <no-break><specific|screen|<resize|<move|<with|color|<quote|#A0A0FF>|->|-0.3em|>|0em||0em|>>><with|font-family|<quote|tt>|font-shape|<quote|italic>|list>|20|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-full-178|<tuple|4.1|18|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-generic-transformations-121|<tuple|3.1|14|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-gray-164|<tuple|4.1|18|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-green-168|<tuple|4.1|18|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-half-182|<tuple|4.1|18|../.Xmacs/texts/scratch/no_name_7.tm>>
+    <no-break><specific|screen|<resize|<move|<with|color|<quote|#A0A0FF>|->|-0.3em|>|0em||0em|>>><with|font-family|<quote|tt>|font-shape|<quote|italic>|list>|18>>
+    <associate|index-full-178|<tuple|4.1|17>>
+    <associate|index-generic-transformations-121|<tuple|3.1|13>>
+    <associate|index-gray-164|<tuple|4.1|17>>
+    <associate|index-green-168|<tuple|4.1|17>>
+    <associate|index-half-182|<tuple|4.1|17>>
     <associate|index-height-137|<tuple|<with|font-family|<quote|tt>|equilateral
-    { x { , a } }>|15|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-hexagon-79|<tuple|<with|font-family|<quote|tt>|s[i]>|11|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-homothecy-126|<tuple|3.1|14|../.Xmacs/texts/scratch/no_name_7.tm>>
+    { x { , a } }>|14>>
+    <associate|index-hexagon-79|<tuple|<with|font-family|<quote|tt>|s[i]>|10>>
+    <associate|index-homothecy-126|<tuple|3.1|13>>
     <associate|index-horizontal-276|<tuple|<with|font-family|<quote|tt>|mobile
     <no-break><specific|screen|<resize|<move|<with|color|<quote|#A0A0FF>|->|-0.3em|>|0em||0em|>>><with|font-family|<quote|tt>|font-shape|<quote|italic>|var><with|font-family|<quote|tt>|
     <no-break><specific|screen|<resize|<move|<with|color|<quote|#A0A0FF>|->|-0.3em|>|0em||0em|>>(
     { <no-break><specific|screen|<resize|<move|<with|color|<quote|#A0A0FF>|->|-0.3em|>|0em||0em|>>><with|font-family|<quote|tt>|font-shape|<quote|italic>|state><with|font-family|<quote|tt>|,
-    } x, y, x', y' { , z } ) = <no-break><specific|screen|<resize|<move|<with|color|<quote|#A0A0FF>|->|-0.3em|>|0em||0em|>>><with|font-family|<quote|tt>|font-shape|<quote|italic>|point>|26|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-hyperbola-109|<tuple|2.6|13|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-hyperbola-253|<tuple|<with|font-family|<quote|tt>|empty(s)>|24|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-identifiers-6|<tuple|1.1|7|../.Xmacs/texts/scratch/no_name_7.tm>>
+    } x, y, x', y' { , z } ) = <no-break><specific|screen|<resize|<move|<with|color|<quote|#A0A0FF>|->|-0.3em|>|0em||0em|>>><with|font-family|<quote|tt>|font-shape|<quote|italic>|point>|23>>
+    <associate|index-hyperbola-109|<tuple|2.6|12>>
+    <associate|index-hyperbola-253|<tuple|<with|font-family|<quote|tt>|empty(s)>|21>>
+    <associate|index-identifiers-6|<tuple|1.1|7>>
     <associate|index-in-246|<tuple|<with|font-family|<quote|tt>|x \<gtr\>=
-    y>|23|../.Xmacs/texts/scratch/no_name_7.tm>>
+    y>|21>>
     <associate|index-incircle-143|<tuple|<with|font-family|<quote|tt>|equilateral
-    { x { , a } }>|15|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-input-functions-223|<tuple|<with|font-family|<quote|tt>|close>|22|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-integers-11|<tuple|1.2|8|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-intersection-130|<tuple|3.2|14|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-isobarycenter-72|<tuple|<with|font-family|<quote|tt>|s[i]>|11|../.Xmacs/texts/scratch/no_name_7.tm>>
+    { x { , a } }>|14>>
+    <associate|index-input-functions-223|<tuple|<with|font-family|<quote|tt>|close>|20>>
+    <associate|index-integers-11|<tuple|1.2|8>>
+    <associate|index-intersection-130|<tuple|3.2|13>>
+    <associate|index-isobarycenter-72|<tuple|<with|font-family|<quote|tt>|s[i]>|10>>
     <associate|index-isosceles-134|<tuple|<with|font-family|<quote|tt>|right
-    { x, } u { , a }>|15|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-isosceles-255|<tuple|<with|font-family|<quote|tt>|empty(s)>|24|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-length-40|<tuple|<with|font-family|<quote|tt>|%%>|9|../.Xmacs/texts/scratch/no_name_7.tm>>
+    { x, } u { , a }>|14>>
+    <associate|index-isosceles-255|<tuple|<with|font-family|<quote|tt>|empty(s)>|21>>
+    <associate|index-length-40|<tuple|<with|font-family|<quote|tt>|%%>|9>>
     <associate|index-length-56|<tuple|<with|font-family|<quote|tt>|u *
-    v>|10|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-length-65|<tuple|<with|font-family|<quote|tt>|s[i]>|11|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-lightgray-165|<tuple|4.1|18|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-line-104|<tuple|2.5|12|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-line-119|<tuple|2.6|13|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-line-85|<tuple|2.4|12|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-line-related-functions-84|<tuple|2.4|12|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-line-style-157|<tuple|4.1|18|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-ln-18|<tuple|<with|font-family|<quote|tt>|x mod
-    y>|8|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-local-271|<tuple|5.4|25|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-magenta-171|<tuple|4.1|18|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-major-112|<tuple|2.6|13|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-max-33|<tuple|<with|font-family|<quote|tt>|x mod
-    y>|8|../.Xmacs/texts/scratch/no_name_7.tm>>
+    v>|10>>
+    <associate|index-length-65|<tuple|<with|font-family|<quote|tt>|s[i]>|10>>
+    <associate|index-lightgray-165|<tuple|4.1|17>>
+    <associate|index-line-104|<tuple|2.5|11>>
+    <associate|index-line-119|<tuple|2.6|12>>
+    <associate|index-line-85|<tuple|2.4|11>>
+    <associate|index-line-related-functions-84|<tuple|2.4|11>>
+    <associate|index-line-style-157|<tuple|4.1|17>>
+    <associate|index-ln-18|<tuple|<with|font-family|<quote|tt>|x mod y>|8>>
+    <associate|index-local-271|<tuple|5.4|22>>
+    <associate|index-magenta-171|<tuple|4.1|17>>
+    <associate|index-major-112|<tuple|2.6|12>>
+    <associate|index-max-33|<tuple|<with|font-family|<quote|tt>|x mod y>|8>>
     <associate|index-median-141|<tuple|<with|font-family|<quote|tt>|equilateral
-    { x { , a } }>|15|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-midpoint-70|<tuple|<with|font-family|<quote|tt>|s[i]>|11|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-min-32|<tuple|<with|font-family|<quote|tt>|x mod
-    y>|8|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-minor-113|<tuple|2.6|13|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-mobile-275|<tuple|5.6|25|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-mobile-points-274|<tuple|5.6|25|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-mod-14|<tuple|1.2|8|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-none-185|<tuple|4.1|18|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-not-241|<tuple|5.2|23|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-number-224|<tuple|<with|font-family|<quote|tt>|close>|22|../.Xmacs/texts/scratch/no_name_7.tm>>
+    { x { , a } }>|14>>
+    <associate|index-midpoint-70|<tuple|<with|font-family|<quote|tt>|s[i]>|10>>
+    <associate|index-min-32|<tuple|<with|font-family|<quote|tt>|x mod y>|8>>
+    <associate|index-minor-113|<tuple|2.6|12>>
+    <associate|index-mobile-275|<tuple|5.6|23>>
+    <associate|index-mobile-points-274|<tuple|5.6|23>>
+    <associate|index-mod-14|<tuple|1.2|8>>
+    <associate|index-none-185|<tuple|4.1|17>>
+    <associate|index-not-241|<tuple|5.2|21>>
+    <associate|index-number-224|<tuple|<with|font-family|<quote|tt>|close>|20>>
     <associate|index-numeric-functions-15|<tuple|<with|font-family|<quote|tt>|x
-    mod y>|8|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-numeric-operators-13|<tuple|1.2|8|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-on-248|<tuple|<with|font-family|<quote|tt>|empty(s)>|24|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-or-243|<tuple|5.2|23|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-ordinate-47|<tuple|2.1|9|../.Xmacs/texts/scratch/no_name_7.tm>>
+    mod y>|8>>
+    <associate|index-numeric-operators-13|<tuple|1.2|8>>
+    <associate|index-on-248|<tuple|<with|font-family|<quote|tt>|empty(s)>|21>>
+    <associate|index-or-243|<tuple|5.2|21>>
+    <associate|index-ordinate-47|<tuple|2.1|9>>
     <associate|index-ordinate-55|<tuple|<with|font-family|<quote|tt>|u *
-    v>|10|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-ordinate-93|<tuple|2.4|12|../.Xmacs/texts/scratch/no_name_7.tm>>
+    v>|10>>
+    <associate|index-ordinate-93|<tuple|2.4|11>>
     <associate|index-orthocenter-138|<tuple|<with|font-family|<quote|tt>|equilateral
-    { x { , a } }>|15|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-output-234|<tuple|<with|font-family|<quote|tt>|string(s)>|22|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-output-commands-226|<tuple|<with|font-family|<quote|tt>|string(s)>|22|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-parabola-110|<tuple|2.6|13|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-parabola-254|<tuple|<with|font-family|<quote|tt>|empty(s)>|24|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-parallel-250|<tuple|<with|font-family|<quote|tt>|empty(s)>|24|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-parallel-86|<tuple|2.4|12|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-parallelogram-145|<tuple|3.4|16|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-parallelogram-258|<tuple|<with|font-family|<quote|tt>|empty(s)>|24|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-partition-158|<tuple|4.1|18|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-pentagon-78|<tuple|<with|font-family|<quote|tt>|s[i]>|11|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-perimeter-66|<tuple|<with|font-family|<quote|tt>|s[i]>|11|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-perimeter-99|<tuple|2.5|12|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-perpendicular-251|<tuple|<with|font-family|<quote|tt>|empty(s)>|24|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-perpendicular-87|<tuple|2.4|12|../.Xmacs/texts/scratch/no_name_7.tm>>
+    { x { , a } }>|14>>
+    <associate|index-output-234|<tuple|<with|font-family|<quote|tt>|string(s)>|20>>
+    <associate|index-output-commands-226|<tuple|<with|font-family|<quote|tt>|string(s)>|20>>
+    <associate|index-parabola-110|<tuple|2.6|12>>
+    <associate|index-parabola-254|<tuple|<with|font-family|<quote|tt>|empty(s)>|21>>
+    <associate|index-parallel-250|<tuple|<with|font-family|<quote|tt>|empty(s)>|21>>
+    <associate|index-parallel-86|<tuple|2.4|11>>
+    <associate|index-parallelogram-145|<tuple|3.4|15>>
+    <associate|index-parallelogram-258|<tuple|<with|font-family|<quote|tt>|empty(s)>|21>>
+    <associate|index-partition-158|<tuple|4.1|17>>
+    <associate|index-pentagon-78|<tuple|<with|font-family|<quote|tt>|s[i]>|10>>
+    <associate|index-perimeter-66|<tuple|<with|font-family|<quote|tt>|s[i]>|10>>
+    <associate|index-perimeter-99|<tuple|2.5|11>>
+    <associate|index-perpendicular-251|<tuple|<with|font-family|<quote|tt>|empty(s)>|21>>
+    <associate|index-perpendicular-87|<tuple|2.4|11>>
     <associate|index-pi-35|<tuple|<with|font-family|<quote|tt>|clamp(x, y,
-    z)>|9|../.Xmacs/texts/scratch/no_name_7.tm>>
+    z)>|8>>
     <associate|index-pi-36|<tuple|<with|font-family|<quote|tt>|clamp(x, y,
-    z)>|9|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-plus-176|<tuple|4.1|18|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-point-102|<tuple|2.5|12|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-point-116|<tuple|2.6|13|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-point-45|<tuple|2.1|9|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-point-69|<tuple|<with|font-family|<quote|tt>|s[i]>|11|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-point-91|<tuple|2.4|12|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-point-related-functions-44|<tuple|2.1|9|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-point-shape-156|<tuple|4.1|18|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-polygon-77|<tuple|<with|font-family|<quote|tt>|s[i]>|11|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-print-232|<tuple|<with|font-family|<quote|tt>|string(s)>|22|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-printable-objects-227|<tuple|<with|font-family|<quote|tt>|string(s)>|22|../.Xmacs/texts/scratch/no_name_7.tm>>
+    z)>|8>>
+    <associate|index-plus-176|<tuple|4.1|17>>
+    <associate|index-point-102|<tuple|2.5|11>>
+    <associate|index-point-116|<tuple|2.6|12>>
+    <associate|index-point-45|<tuple|2.1|9>>
+    <associate|index-point-69|<tuple|<with|font-family|<quote|tt>|s[i]>|10>>
+    <associate|index-point-91|<tuple|2.4|11>>
+    <associate|index-point-related-functions-44|<tuple|2.1|9>>
+    <associate|index-point-shape-156|<tuple|4.1|17>>
+    <associate|index-polygon-77|<tuple|<with|font-family|<quote|tt>|s[i]>|10>>
+    <associate|index-print-232|<tuple|<with|font-family|<quote|tt>|string(s)>|20>>
+    <associate|index-printable-objects-227|<tuple|<with|font-family|<quote|tt>|string(s)>|20>>
     <associate|index-projection-128|<tuple|<with|font-family|<quote|tt>|homothecy(o,
-    A, x)>|14|../.Xmacs/texts/scratch/no_name_7.tm>>
+    A, x)>|13>>
     <associate|index-projections-127|<tuple|<with|font-family|<quote|tt>|homothecy(o,
-    A, x)>|14|../.Xmacs/texts/scratch/no_name_7.tm>>
+    A, x)>|13>>
     <associate|index-pstricks-262|<tuple|<with|font-family|<quote|tt>|square(A,
-    B, C, D)>|24|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-rad-26|<tuple|<with|font-family|<quote|tt>|x mod
-    y>|8|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-radius-98|<tuple|2.5|12|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-rectangle-146|<tuple|3.4|16|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-rectangle-259|<tuple|<with|font-family|<quote|tt>|empty(s)>|24|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-red-167|<tuple|4.1|18|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-reflection-123|<tuple|3.1|14|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-release-231|<tuple|<with|font-family|<quote|tt>|string(s)>|22|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-return-270|<tuple|5.4|25|../.Xmacs/texts/scratch/no_name_7.tm>>
+    B, C, D)>|22>>
+    <associate|index-rad-26|<tuple|<with|font-family|<quote|tt>|x mod y>|8>>
+    <associate|index-radius-98|<tuple|2.5|11>>
+    <associate|index-rectangle-146|<tuple|3.4|15>>
+    <associate|index-rectangle-259|<tuple|<with|font-family|<quote|tt>|empty(s)>|21>>
+    <associate|index-red-167|<tuple|4.1|17>>
+    <associate|index-reflection-123|<tuple|3.1|13>>
+    <associate|index-release-231|<tuple|<with|font-family|<quote|tt>|string(s)>|20>>
+    <associate|index-return-270|<tuple|5.4|22>>
     <associate|index-right-133|<tuple|<with|font-family|<quote|tt>|triangle {
-    x, } z, v { , a }>|15|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-right-257|<tuple|<with|font-family|<quote|tt>|empty(s)>|24|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-rotation-125|<tuple|3.1|14|../.Xmacs/texts/scratch/no_name_7.tm>>
+    x, } z, v { , a }>|14>>
+    <associate|index-right-257|<tuple|<with|font-family|<quote|tt>|empty(s)>|21>>
+    <associate|index-rotation-125|<tuple|3.1|13>>
     <associate|index-round-31|<tuple|<with|font-family|<quote|tt>|x mod
-    y>|8|../.Xmacs/texts/scratch/no_name_7.tm>>
+    y>|8>>
     <associate|index-scale-189|<tuple|<with|font-family|<quote|tt>|draw l s a
-    <no-break><specific|screen|<resize|<move|<with|color|<quote|#A0A0FF>|->|-0.3em|>|0em||0em|>>><with|font-family|<quote|tt>|font-shape|<quote|italic>|list>|20|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-scale-factor-155|<tuple|4.1|18|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-segments-60|<tuple|2.3|10|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-set-63|<tuple|<with|font-family|<quote|tt>|s[i]>|11|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-set-operators-61|<tuple|2.3|10|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-set-related-assignments-82|<tuple|<with|font-family|<quote|tt>|empty>|11|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-set-related-functions-62|<tuple|<with|font-family|<quote|tt>|s[i]>|11|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-sign-28|<tuple|<with|font-family|<quote|tt>|x mod
-    y>|8|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-sin-19|<tuple|<with|font-family|<quote|tt>|x mod
-    y>|8|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-special-characters-38|<tuple|1.3|9|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-sqrt-16|<tuple|<with|font-family|<quote|tt>|x mod
-    y>|8|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-square-147|<tuple|3.4|16|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-square-260|<tuple|<with|font-family|<quote|tt>|empty(s)>|24|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-statements-3|<tuple|1.1|7|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-stop-240|<tuple|5.2|23|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-string-225|<tuple|<with|font-family|<quote|tt>|close>|22|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-string-related-functions-39|<tuple|<with|font-family|<quote|tt>|%%>|9|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-sub-41|<tuple|<with|font-family|<quote|tt>|%%>|9|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-sub-76|<tuple|<with|font-family|<quote|tt>|s[i]>|11|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-symmetric-124|<tuple|3.1|14|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-tan-21|<tuple|<with|font-family|<quote|tt>|x mod
-    y>|8|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-translation-122|<tuple|3.1|14|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-triangle-132|<tuple|3.3|15|../.Xmacs/texts/scratch/no_name_7.tm>>
+    <no-break><specific|screen|<resize|<move|<with|color|<quote|#A0A0FF>|->|-0.3em|>|0em||0em|>>><with|font-family|<quote|tt>|font-shape|<quote|italic>|list>|18>>
+    <associate|index-scale-factor-155|<tuple|4.1|17>>
+    <associate|index-segments-60|<tuple|2.3|10>>
+    <associate|index-set-63|<tuple|<with|font-family|<quote|tt>|s[i]>|10>>
+    <associate|index-set-operators-61|<tuple|2.3|10>>
+    <associate|index-set-related-assignments-82|<tuple|<with|font-family|<quote|tt>|empty>|11>>
+    <associate|index-set-related-functions-62|<tuple|<with|font-family|<quote|tt>|s[i]>|10>>
+    <associate|index-sign-28|<tuple|<with|font-family|<quote|tt>|x mod y>|8>>
+    <associate|index-sin-19|<tuple|<with|font-family|<quote|tt>|x mod y>|8>>
+    <associate|index-special-characters-38|<tuple|1.3|9>>
+    <associate|index-sqrt-16|<tuple|<with|font-family|<quote|tt>|x mod y>|8>>
+    <associate|index-square-147|<tuple|3.4|15>>
+    <associate|index-square-260|<tuple|<with|font-family|<quote|tt>|empty(s)>|21>>
+    <associate|index-statements-3|<tuple|1.1|7>>
+    <associate|index-stop-240|<tuple|5.2|21>>
+    <associate|index-string-225|<tuple|<with|font-family|<quote|tt>|close>|20>>
+    <associate|index-string-related-functions-39|<tuple|<with|font-family|<quote|tt>|%%>|9>>
+    <associate|index-sub-41|<tuple|<with|font-family|<quote|tt>|%%>|9>>
+    <associate|index-sub-76|<tuple|<with|font-family|<quote|tt>|s[i]>|10>>
+    <associate|index-symmetric-124|<tuple|3.1|13>>
+    <associate|index-tan-21|<tuple|<with|font-family|<quote|tt>|x mod y>|8>>
+    <associate|index-translation-122|<tuple|3.1|13>>
+    <associate|index-triangle-132|<tuple|3.3|13>>
     <associate|index-true-244|<tuple|<with|font-family|<quote|tt>|a or
-    b>|23|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-variables-7|<tuple|1.1|7|../.Xmacs/texts/scratch/no_name_7.tm>>
+    b>|21>>
+    <associate|index-variables-7|<tuple|1.1|8>>
     <associate|index-vector-53|<tuple|<with|font-family|<quote|tt>|u *
-    v>|10|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-vector-75|<tuple|<with|font-family|<quote|tt>|s[i]>|11|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-vector-94|<tuple|2.4|12|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-vector-operators-51|<tuple|2.2|10|../.Xmacs/texts/scratch/no_name_7.tm>>
+    v>|10>>
+    <associate|index-vector-75|<tuple|<with|font-family|<quote|tt>|s[i]>|10>>
+    <associate|index-vector-94|<tuple|2.4|11>>
+    <associate|index-vector-operators-51|<tuple|2.2|9>>
     <associate|index-vector-related-functions-52|<tuple|<with|font-family|<quote|tt>|u
-    * v>|10|../.Xmacs/texts/scratch/no_name_7.tm>>
+    * v>|10>>
     <associate|index-vertical-277|<tuple|<with|font-family|<quote|tt>|mobile
     <no-break><specific|screen|<resize|<move|<with|color|<quote|#A0A0FF>|->|-0.3em|>|0em||0em|>>><with|font-family|<quote|tt>|font-shape|<quote|italic>|var><with|font-family|<quote|tt>|
     <no-break><specific|screen|<resize|<move|<with|color|<quote|#A0A0FF>|->|-0.3em|>|0em||0em|>>(
     { <no-break><specific|screen|<resize|<move|<with|color|<quote|#A0A0FF>|->|-0.3em|>|0em||0em|>>><with|font-family|<quote|tt>|font-shape|<quote|italic>|state><with|font-family|<quote|tt>|,
-    } x, y, x', y' { , z } ) = <no-break><specific|screen|<resize|<move|<with|color|<quote|#A0A0FF>|->|-0.3em|>|0em||0em|>>><with|font-family|<quote|tt>|font-shape|<quote|italic>|point>|26|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-white-166|<tuple|4.1|18|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-write-229|<tuple|<with|font-family|<quote|tt>|string(s)>|22|../.Xmacs/texts/scratch/no_name_7.tm>>
-    <associate|index-yellow-172|<tuple|4.1|18|../.Xmacs/texts/scratch/no_name_7.tm>>
+    } x, y, x', y' { , z } ) = <no-break><specific|screen|<resize|<move|<with|color|<quote|#A0A0FF>|->|-0.3em|>|0em||0em|>>><with|font-family|<quote|tt>|font-shape|<quote|italic>|point>|23>>
+    <associate|index-white-166|<tuple|4.1|17>>
+    <associate|index-write-229|<tuple|<with|font-family|<quote|tt>|string(s)>|20>>
+    <associate|index-yellow-172|<tuple|4.1|17>>
   </collection>
 </references>
 
