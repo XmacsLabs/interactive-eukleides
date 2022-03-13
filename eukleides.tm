@@ -202,124 +202,124 @@
 
     <with|par-left|1tab|4.2<space|2spc>Label Commands
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-76>>
+    <no-break><pageref|auto-81>>
 
     <with|par-left|2tab|Label parameters <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-77>>
+    <no-break><pageref|auto-82>>
 
     <with|par-left|2tab|Single label statements
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-78>>
+    <no-break><pageref|auto-83>>
 
     5<space|2spc>Programming <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-79>
+    <no-break><pageref|auto-84>
 
     <with|par-left|1tab|5.1<space|2spc>Input and Output
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-80>>
+    <no-break><pageref|auto-85>>
 
     <with|par-left|2tab|Input commands <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-81>>
+    <no-break><pageref|auto-86>>
 
     <with|par-left|2tab|Input functions <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-82>>
+    <no-break><pageref|auto-87>>
 
     <with|par-left|2tab|Output commands <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-83>>
+    <no-break><pageref|auto-88>>
 
     <with|par-left|1tab|5.2<space|2spc>Conditional Statements
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-84>>
+    <no-break><pageref|auto-89>>
 
     <with|par-left|2tab|Boolean operators
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-85>>
+    <no-break><pageref|auto-90>>
 
     <with|par-left|2tab|Boolean constants
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-86>>
+    <no-break><pageref|auto-91>>
 
     <with|par-left|2tab|Comparison operators
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-87>>
+    <no-break><pageref|auto-92>>
 
     <with|par-left|2tab|Set assertions <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-88>>
+    <no-break><pageref|auto-93>>
 
     <with|par-left|2tab|Geometric assertions
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-89>>
+    <no-break><pageref|auto-94>>
 
     <with|par-left|2tab|Output format flags
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-90>>
+    <no-break><pageref|auto-95>>
 
     <with|par-left|2tab|Ternary operator <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-91>>
+    <no-break><pageref|auto-96>>
 
     <with|par-left|1tab|5.3<space|2spc>Iterative Statements
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-92>>
+    <no-break><pageref|auto-97>>
 
     <with|par-left|1tab|5.4<space|2spc>Function Definitions
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-93>>
+    <no-break><pageref|auto-98>>
 
     <with|par-left|1tab|5.5<space|2spc>Modules
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-94>>
+    <no-break><pageref|auto-99>>
 
     <with|par-left|1tab|5.6<space|2spc>Interactive Variables
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-95>>
+    <no-break><pageref|auto-100>>
 
     <with|par-left|2tab|Mobile points <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-96>>
+    <no-break><pageref|auto-101>>
 
     <with|par-left|2tab|Interactive numeric variables
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-97>>
+    <no-break><pageref|auto-102>>
 
     <with|par-left|2tab|Initialisation directives
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-98>>
+    <no-break><pageref|auto-103>>
 
     <with|par-left|2tab|Animation <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-99>>
+    <no-break><pageref|auto-104>>
 
     6<space|2spc>Usage <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-100>
+    <no-break><pageref|auto-105>
 
     <with|par-left|1tab|6.1<space|2spc>Invocation
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-101>>
+    <no-break><pageref|auto-106>>
 
     <with|par-left|2tab|Common options <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-102>>
+    <no-break><pageref|auto-107>>
 
     <with|par-left|2tab|Options specific to <with|font-family|ss|eukleides>
     and <with|font-family|ss|euktopst> <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-103>>
+    <no-break><pageref|auto-108>>
 
     <with|par-left|2tab|Option specific to <with|font-family|ss|eukleides>
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-104>>
+    <no-break><pageref|auto-109>>
 
     <with|par-left|2tab|Options specific to <with|font-family|ss|euktoeps>
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-105>>
+    <no-break><pageref|auto-110>>
 
     <with|par-left|1tab|6.2<space|2spc>TeX
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-106>>
+    <no-break><pageref|auto-111>>
 
     <with|par-left|1tab|6.3<space|2spc>Localized Keywords
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-107>>
+    <no-break><pageref|auto-112>>
 
     <vspace*|1fn><with|font-series|bold|math-font-series|bold|Index>
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-108><vspace|0.5fn>
+    <no-break><pageref|auto-113><vspace|0.5fn>
   </table-of-contents>
 
   <new-page>
@@ -938,6 +938,8 @@
 
   <subsection|Intersections>
 
+  \;
+
   Intersection functions provide the points belonging to both of two given
   geometric objects. Sets are considered as open paths. For line-line
   intersections the function is point valued, otherwise it is set valued.
@@ -963,11 +965,35 @@
 
   <subsection|Triangles>
 
+  \;
+
   Triangular assignments consist in a list of three variable names followed
   by either <code*|triangle>, <code*|right>, <code*|isosceles> or
   <code*|equilateral>, and some optional parameters.
 
-  Example: <code*|A B C triangle 6, 5, 4, 0\<degree\>>
+  Example:
+
+  <\session|eukleides|default>
+    <\unfolded-io>
+      eukleides]\ 
+    <|unfolded-io>
+      A B C triangle 6, 5, 4, 0:
+
+      draw A.B
+
+      draw B.C
+
+      draw C.A
+    <|unfolded-io>
+      <image|<tuple|<#252150532D41646F62652D332E3020455053462D332E300A2525426F756E64696E67426F783A202D35362E36393239202D35362E36393239203232362E37373137203137302E303738370A25255469746C653A202F686F6D652F73616468656E2F2E586D6163732F73797374656D2F746D702F67726170685F65756B6C65696465735F39343833332F65756B6C65696465732E7478740A252543726561746F723A2065756B6C65696465730A2525456E64436F6D6D656E74730A67736176652032382E3334363435363639323920647570207363616C650A20302E30313736207365746C696E6577696474682031207365746C696E656361702031207365746C696E656A6F696E0A20302E303030302020302E303030302020362E303030302020302E30303030206D6F7665746F0A6C696E65746F207374726F6B650A20362E303030302020302E303030302020322E323530302020332E33303732206D6F7665746F0A6C696E65746F207374726F6B650A20322E323530302020332E333037322020302E303030302020302E30303030206D6F7665746F0A6C696E65746F207374726F6B650A73686F77706167652067726573746F72650A2525454F460A>|ps>|0.618par|||>
+    </unfolded-io>
+
+    <\input>
+      eukleides]\ 
+    <|input>
+      \;
+    </input>
+  </session>
 
   In the following, we will use letter x for the first side of the triangle,
   i.e. the segment joining the first and the second vertices, y for the
@@ -1059,11 +1085,35 @@
 
   <subsection|Quadrilaterals>
 
+  \;
+
   Quadrilateral assignments consist in a list of four variable names followed
   by either <code*|parallelogram>, <code*|rectangle> or <code*|square>, and
   some optional parameters.
 
-  Example: <code*|A B C D parallelogram 6, 3, 60\<degree\>>
+  Example: <code*|\<degree\>>
+
+  <\session|eukleides|default>
+    <\unfolded-io>
+      eukleides]\ 
+    <|unfolded-io>
+      A B C D parallelogram 6, 3, 60:
+
+      draw
+
+      \ \ A.B; B.C; C.D; D.A
+
+      end
+    <|unfolded-io>
+      <image|<tuple|<#252150532D41646F62652D332E3020455053462D332E300A2525426F756E64696E67426F783A202D35362E36393239202D35362E36393239203232362E37373137203137302E303738370A25255469746C653A202F686F6D652F73616468656E2F2E586D6163732F73797374656D2F746D702F67726170685F65756B6C65696465735F39343833332F65756B6C65696465732E7478740A252543726561746F723A2065756B6C65696465730A2525456E64436F6D6D656E74730A67736176652032382E3334363435363639323920647570207363616C650A20302E30313736207365746C696E6577696474682031207365746C696E656361702031207365746C696E656A6F696E0A20302E303030302020302E303030302020362E303030302020302E30303030206D6F7665746F0A6C696E65746F207374726F6B650A20362E303030302020302E303030302020372E353030302020322E35393831206D6F7665746F0A6C696E65746F207374726F6B650A20372E353030302020322E353938312020312E353030302020322E35393831206D6F7665746F0A6C696E65746F207374726F6B650A20312E353030302020322E353938312020302E303030302020302E30303030206D6F7665746F0A6C696E65746F207374726F6B650A73686F77706167652067726573746F72650A2525454F460A>|ps>|0.618par|||>
+    </unfolded-io>
+
+    <\input>
+      eukleides]\ 
+    <|input>
+      \;
+    </input>
+  </session>
 
   In the following, we will use letter x for the first side of the
   quadrilateral, i.e. the segment joining the first and the second vertices,
@@ -1092,6 +1142,8 @@
   </description>
 
   <subsubsection*|Default quadrilateral assignments>
+
+  \;
 
   Default assignments, i.e. assignments without parameters, are only valid
   with at most one predefined vertex.
@@ -1366,19 +1418,17 @@
 
   <subsubsection*|Output setting commands>
 
-  <label|index-scale-189><label|index-box-190><label|index-frame-191>
-
   <\description>
-    <item*|<code*|scale z>>Sets the value of the length unit. (Default: 1
-    cm.)
+    <item*|<index|scale><code*|scale z>>Sets the value of the length unit.
+    (Default: 1 cm.)
 
-    <item*|<code*|box x, y, x', y' { , z }>>
+    <item*|<index|box><code*|box x, y, x', y' { , z }>>
 
-    <item*|<code*|frame x, y, x', y' { , z }>>Sets the coordinates of the
-    lower left and upper right corner of the drawing frame, with optional
-    scale factor z. Default coordinates are (-2, -2) and (8, 6). With
-    <samp|eukleides> and <samp|euktopst>, both commands yield the same
-    result.
+    <index|frame><item*|<code*|frame x, y, x', y' { , z }>>Sets the
+    coordinates of the lower left and upper right corner of the drawing
+    frame, with optional scale factor z. Default coordinates are (-2, -2) and
+    (8, 6). With <samp|eukleides> and <samp|euktopst>, both commands yield
+    the same result.
   </description>
 
   <subsection|Label Commands>
@@ -1524,9 +1574,9 @@
   Example:
 
   <\code>
-    \ \ \ \ \ l = number("Length? ``)
+    \ \ \ \ \ l = number("Length?")
 
-    \ \ \ \ \ w = number("Width? ``)
+    \ \ \ \ \ w = number("Width?")
 
     \ \ \ \ \ draw rectangle(l, w)
   </code>
@@ -1536,6 +1586,8 @@
 
   <label|index-output-commands-226><label|index-printable-objects-227><label|index-file-output-228><label|index-write-229><label|index-append-230><label|index-release-231><label|index-print-232><label|index-error-233><label|index-output-234><subsubsection*|Output
   commands>
+
+  \;
 
   Output commands take a comma separated list of printable objects as
   arguments. Printable objects are strings, numbers, points and sets. They
@@ -1644,8 +1696,6 @@
 
   <subsubsection*|Geometric assertions>
 
-  <label|index-on-248><label|index-collinear-249><label|index-parallel-250><label|index-perpendicular-251><label|index-ellipse-252><label|index-hyperbola-253><label|index-parabola-254><label|index-isosceles-255><label|index-equilateral-256><label|index-right-257><label|index-parallelogram-258><label|index-rectangle-259><label|index-square-260>
-
   <\description>
     <item*|<code*|A on s>>Checks whether point A is on object s, where s may
     be a set (considered as an open path), a line, a circle or a conic.
@@ -1714,23 +1764,41 @@
 
   Example:
 
+  <\session|eukleides|default>
+    <\unfolded-io>
+      eukleides]\ 
+    <|unfolded-io>
+      O = point(3,2)
+
+      H = hexagon(O, 3, 0:)
+
+      draw (H)
+
+      \ \ \ \ \ 
+
+      for P in H
+
+      \ \ draw O.P dotted
+
+      end
+    <|unfolded-io>
+      <image|<tuple|<#252150532D41646F62652D332E3020455053462D332E300A2525426F756E64696E67426F783A202D35362E36393239202D35362E36393239203232362E37373137203137302E303738370A25255469746C653A202F686F6D652F73616468656E2F2E586D6163732F73797374656D2F746D702F67726170685F65756B6C65696465735F39343833332F65756B6C65696465732E7478740A252543726561746F723A2065756B6C65696465730A2525456E64436F6D6D656E74730A67736176652032382E3334363435363639323920647570207363616C650A20302E30313736207365746C696E6577696474682031207365746C696E656361702031207365746C696E656A6F696E0A20362E303030302020322E303030302020342E353030302020342E353938312020312E353030302020342E35393831202D302E303030302020322E303030300A20312E35303030202D302E353938312020342E35303030202D302E35393831206D6F7665746F0A35207B6C696E65746F7D2072657065617420636C6F736570617468207374726F6B650A5B30202E325D203020736574646173680A20332E303030302020322E303030302020362E303030302020322E30303030206D6F7665746F0A6C696E65746F207374726F6B650A20332E303030302020322E303030302020342E353030302020342E35393831206D6F7665746F0A6C696E65746F207374726F6B650A20332E303030302020322E303030302020312E353030302020342E35393831206D6F7665746F0A6C696E65746F207374726F6B650A20332E303030302020322E30303030202D302E303030302020322E30303030206D6F7665746F0A6C696E65746F207374726F6B650A20332E303030302020322E303030302020312E35303030202D302E35393831206D6F7665746F0A6C696E65746F207374726F6B650A20332E303030302020322E303030302020342E35303030202D302E35393831206D6F7665746F0A6C696E65746F207374726F6B650A73686F77706167652067726573746F72650A2525454F460A>|ps>|0.618par|||>
+    </unfolded-io>
+
+    <\input>
+      eukleides]\ 
+    <|input>
+      \;
+    </input>
+  </session>
+
   <\code>
-    \ \ \ \ \ O = point(3,2)
-
-    \ \ \ \ \ H = hexagon(O, 3, 0\<degree\>)
-
-    \ \ \ \ \ draw (H)
-
     \ \ \ \ \ 
-
-    \ \ \ \ \ for P in H
-
-    \ \ \ \ \ \ \ draw O.P dotted
-
-    \ \ \ \ \ end
   </code>
 
   <subsection|Function Definitions>
+
+  \;
 
   A command or function definition consists in a header followed by a block
   of instructions delimited by <code*|end>.
@@ -1779,12 +1847,16 @@
 
   <subsection|Modules>
 
+  \;
+
   Eukleides scripts may be modular using include directives. An include
   directive consists in a line starting with the at sign (@) followed without
   white space by the path to the file (either absolute or relative). To avoid
   circular references, only 20 levels of inclusion are allowed.
 
   <subsection|Interactive Variables>
+
+  \;
 
   The GUI for the first version of the Eukleides language, named
   <samp|xeukleides>, allowed to interactively modify the value of numeric
@@ -1793,13 +1865,13 @@
 
   <subsubsection*|Mobile points>
 
-  <label|index-mobile-points-274>A mobile point is a point-valued variable
-  which is bound to a state (A to Z) and to the keyboard arrows. To switch to
-  a given state, the user has to hit the corresponding key.
+  \;
+
+  A mobile point is a point-valued variable which is bound to a state (A to
+  Z) and to the keyboard arrows. To switch to a given state, the user has to
+  hit the corresponding key.
 
   Syntax for a mobile point declaration is:
-
-  <label|index-mobile-275>
 
   <\description>
     <item*|<code*|mobile ><var|var><code*| { (><var|state><code*|) } =
@@ -1811,6 +1883,8 @@
     <item*|<code*|mobile ><var|var><code*| ( { ><var|state><code*|, } x, y,
     x', y' { , z } ) = ><var|point>>
   </description>
+
+  \;
 
   unless <var|var> already contains a point, in which case the initialisation
   part has to be omitted.
@@ -1826,6 +1900,8 @@
   Example: <code*|mobile P_0(<with|font-family|tt|#>A, 0.2)>
 
   <subsubsection*|Interactive numeric variables>
+
+  \;
 
   An interactive numeric variable is bound to a state (A to Z) and to either
   the horizontal or the vertical keyboard arrows.
@@ -1850,6 +1926,8 @@
 
   <subsubsection*|Initialisation directives>
 
+  \;
+
   An initialisation directive is equivalent to keystrokes prior to execution.
   It consists in a single line starting with a number sign followed by a
   space separated list of pairs of letters and integers. Lowercase letters
@@ -1868,6 +1946,8 @@
 
   <subsubsection*|Animation>
 
+  \;
+
   With <samp|eukleides>, the <code*|--animate> option allows to generate
   PostScript files containing several pages which may be converted into
   animated GIFs (using ImageMagik's <samp|convert> for instance). The
@@ -1883,6 +1963,8 @@
   <section|Usage>
 
   <subsection|Invocation>
+
+  \;
 
   Command-line invocation for <samp|eukleides>, <samp|euktopst>, or
   <samp|euktoeps> is:
@@ -1986,7 +2068,11 @@
 
     <index+1|barycenter|<pageref|auto-21>>
 
+    <index+1|box|<pageref|auto-79>>
+
     <index+1|distance|<pageref|auto-20>>
+
+    <index+1|frame|<pageref|auto-80>>
 
     <index+1|item|<pageref|auto-33>>
 
@@ -1995,6 +2081,8 @@
     <index+1|ordinate|<pageref|auto-19>>
 
     <index+1|point|<pageref|auto-16>>
+
+    <index+1|scale|<pageref|auto-77>>
 
     <index+1|sqrt|<pageref|auto-8>>
 
@@ -2014,18 +2102,32 @@
   <\collection>
     <associate|auto-1|<tuple|?|7>>
     <associate|auto-10|<tuple|1.3|9>>
-    <associate|auto-100|<tuple|6|26>>
-    <associate|auto-101|<tuple|6.1|26>>
-    <associate|auto-102|<tuple|6.1|26>>
-    <associate|auto-103|<tuple|<with|font-family|<quote|tt>|-h, --help>|26>>
-    <associate|auto-104|<tuple|<with|font-family|<quote|tt>|-b,
-    --batchmode{=><with|font-family|<quote|tt>|font-shape|<quote|italic>|data_file><with|font-family|<quote|tt>|}>|26>>
-    <associate|auto-105|<tuple|<with|font-family|<quote|tt>|-a,
-    --animate=><with|font-family|<quote|tt>|font-shape|<quote|italic>|string>|26>>
-    <associate|auto-106|<tuple|6.2|26>>
-    <associate|auto-107|<tuple|6.3|27>>
-    <associate|auto-108|<tuple|6.3|29>>
+    <associate|auto-100|<tuple|5.6|26>>
+    <associate|auto-101|<tuple|5.6|26>>
+    <associate|auto-102|<tuple|<with|font-family|<quote|tt>|mobile
+    ><with|font-family|<quote|tt>|font-shape|<quote|italic>|var><with|font-family|<quote|tt>|
+    ( { ><with|font-family|<quote|tt>|font-shape|<quote|italic>|state><with|font-family|<quote|tt>|,
+    } x, y, x', y' { , z } ) = ><with|font-family|<quote|tt>|font-shape|<quote|italic>|point>|27>>
+    <associate|auto-103|<tuple|<with|font-family|<quote|tt>|vertical
+    ><with|font-family|<quote|tt>|font-shape|<quote|italic>|variable><with|font-family|<quote|tt>|
+    (><with|font-family|<quote|tt>|font-shape|<quote|italic>|state><with|font-family|<quote|tt>|
+    { , x, y } { , z }) = t>|27>>
+    <associate|auto-104|<tuple|<with|font-family|<quote|tt>|vertical
+    ><with|font-family|<quote|tt>|font-shape|<quote|italic>|variable><with|font-family|<quote|tt>|
+    (><with|font-family|<quote|tt>|font-shape|<quote|italic>|state><with|font-family|<quote|tt>|
+    { , x, y } { , z }) = t>|27>>
+    <associate|auto-105|<tuple|6|27>>
+    <associate|auto-106|<tuple|6.1|27>>
+    <associate|auto-107|<tuple|6.1|28>>
+    <associate|auto-108|<tuple|<with|font-family|<quote|tt>|-h, --help>|28>>
+    <associate|auto-109|<tuple|<with|font-family|<quote|tt>|-b,
+    --batchmode{=><with|font-family|<quote|tt>|font-shape|<quote|italic>|data_file><with|font-family|<quote|tt>|}>|28>>
     <associate|auto-11|<tuple|1.3|9>>
+    <associate|auto-110|<tuple|<with|font-family|<quote|tt>|-a,
+    --animate=><with|font-family|<quote|tt>|font-shape|<quote|italic>|string>|28>>
+    <associate|auto-111|<tuple|6.2|28>>
+    <associate|auto-112|<tuple|6.3|28>>
+    <associate|auto-113|<tuple|6.3|29>>
     <associate|auto-12|<tuple|<with|font-family|<quote|tt>|%%>|9>>
     <associate|auto-13|<tuple|2|9>>
     <associate|auto-14|<tuple|2.1|9>>
@@ -2072,95 +2174,82 @@
     <associate|auto-56|<tuple|3.2|14>>
     <associate|auto-57|<tuple|3.2|14>>
     <associate|auto-58|<tuple|3.3|14>>
-    <associate|auto-59|<tuple|3.3|14>>
+    <associate|auto-59|<tuple|3.3|15>>
     <associate|auto-6|<tuple|<with|font-family|<quote|tt>|x mod y>|8>>
     <associate|auto-60|<tuple|<with|font-family|<quote|tt>|triangle { x, } z,
-    v { , a }>|14>>
+    v { , a }>|15>>
     <associate|auto-61|<tuple|<with|font-family|<quote|tt>|right { x, } u { ,
     a }>|15>>
     <associate|auto-62|<tuple|<with|font-family|<quote|tt>|isosceles { x, } u
     { , a }>|15>>
     <associate|auto-63|<tuple|<with|font-family|<quote|tt>|equilateral { x {
     , a } }>|15>>
-    <associate|auto-64|<tuple|3.4|15>>
-    <associate|auto-65|<tuple|3.4|15>>
+    <associate|auto-64|<tuple|3.4|16>>
+    <associate|auto-65|<tuple|3.4|16>>
     <associate|auto-66|<tuple|<with|font-family|<quote|tt>|square { x { , b }
-    }>|15>>
-    <associate|auto-67|<tuple|<with|font-family|<quote|tt>|square>|16>>
-    <associate|auto-68|<tuple|3.5|16>>
-    <associate|auto-69|<tuple|3.5|16>>
-    <associate|auto-70|<tuple|4|17>>
-    <associate|auto-71|<tuple|4.1|17>>
-    <associate|auto-72|<tuple|4.1|18>>
-    <associate|auto-73|<tuple|<with|font-shape|<quote|italic>|Font>|19>>
-    <associate|auto-74|<tuple|<with|font-shape|<quote|italic>|Font>|19>>
+    }>|16>>
+    <associate|auto-67|<tuple|<with|font-family|<quote|tt>|square>|17>>
+    <associate|auto-68|<tuple|3.5|17>>
+    <associate|auto-69|<tuple|3.5|17>>
+    <associate|auto-70|<tuple|4|18>>
+    <associate|auto-71|<tuple|4.1|18>>
+    <associate|auto-72|<tuple|4.1|19>>
+    <associate|auto-73|<tuple|<with|font-shape|<quote|italic>|Font>|20>>
+    <associate|auto-74|<tuple|<with|font-shape|<quote|italic>|Font>|20>>
     <associate|auto-75|<tuple|<with|font-family|<quote|tt>|draw l s a
-    ><with|font-family|<quote|tt>|font-shape|<quote|italic>|list>|20>>
-    <associate|auto-76|<tuple|4.2|20>>
-    <associate|auto-77|<tuple|4.2|21>>
-    <associate|auto-78|<tuple|<with|font-shape|<quote|italic>|Font>|21>>
-    <associate|auto-79|<tuple|5|22>>
+    ><with|font-family|<quote|tt>|font-shape|<quote|italic>|list>|21>>
+    <associate|auto-77|<tuple|scale|21>>
+    <associate|auto-79|<tuple|box|21>>
     <associate|auto-8|<tuple|sqrt|8>>
-    <associate|auto-80|<tuple|5.1|22>>
-    <associate|auto-81|<tuple|5.1|22>>
-    <associate|auto-82|<tuple|<with|font-family|<quote|tt>|close>|22>>
-    <associate|auto-83|<tuple|<with|font-family|<quote|tt>|string(s)>|22>>
-    <associate|auto-84|<tuple|5.2|22>>
-    <associate|auto-85|<tuple|5.2|23>>
-    <associate|auto-86|<tuple|<with|font-family|<quote|tt>|a or b>|23>>
-    <associate|auto-87|<tuple|<with|font-family|<quote|tt>|false>|23>>
-    <associate|auto-88|<tuple|<with|font-family|<quote|tt>|x \<gtr\>= y>|23>>
-    <associate|auto-89|<tuple|<with|font-family|<quote|tt>|empty(s)>|23>>
+    <associate|auto-80|<tuple|frame|21>>
+    <associate|auto-81|<tuple|4.2|21>>
+    <associate|auto-82|<tuple|4.2|22>>
+    <associate|auto-83|<tuple|<with|font-shape|<quote|italic>|Font>|22>>
+    <associate|auto-84|<tuple|5|23>>
+    <associate|auto-85|<tuple|5.1|23>>
+    <associate|auto-86|<tuple|5.1|23>>
+    <associate|auto-87|<tuple|<with|font-family|<quote|tt>|close>|23>>
+    <associate|auto-88|<tuple|<with|font-family|<quote|tt>|string(s)>|23>>
+    <associate|auto-89|<tuple|5.2|23>>
     <associate|auto-9|<tuple|<with|font-family|<quote|tt>|clamp(x, y, z)>|9>>
-    <associate|auto-90|<tuple|<with|font-family|<quote|tt>|square(A, B, C,
-    D)>|24>>
-    <associate|auto-91|<tuple|<with|font-family|<quote|tt>|display>|24>>
-    <associate|auto-92|<tuple|5.3|24>>
-    <associate|auto-93|<tuple|5.4|24>>
-    <associate|auto-94|<tuple|5.5|25>>
-    <associate|auto-95|<tuple|5.6|25>>
-    <associate|auto-96|<tuple|5.6|25>>
-    <associate|auto-97|<tuple|<with|font-family|<quote|tt>|mobile
-    ><with|font-family|<quote|tt>|font-shape|<quote|italic>|var><with|font-family|<quote|tt>|
-    ( { ><with|font-family|<quote|tt>|font-shape|<quote|italic>|state><with|font-family|<quote|tt>|,
-    } x, y, x', y' { , z } ) = ><with|font-family|<quote|tt>|font-shape|<quote|italic>|point>|25>>
-    <associate|auto-98|<tuple|<with|font-family|<quote|tt>|vertical
-    ><with|font-family|<quote|tt>|font-shape|<quote|italic>|variable><with|font-family|<quote|tt>|
-    (><with|font-family|<quote|tt>|font-shape|<quote|italic>|state><with|font-family|<quote|tt>|
-    { , x, y } { , z }) = t>|25>>
-    <associate|auto-99|<tuple|<with|font-family|<quote|tt>|vertical
-    ><with|font-family|<quote|tt>|font-shape|<quote|italic>|variable><with|font-family|<quote|tt>|
-    (><with|font-family|<quote|tt>|font-shape|<quote|italic>|state><with|font-family|<quote|tt>|
-    { , x, y } { , z }) = t>|26>>
+    <associate|auto-90|<tuple|5.2|24>>
+    <associate|auto-91|<tuple|<with|font-family|<quote|tt>|a or b>|24>>
+    <associate|auto-92|<tuple|<with|font-family|<quote|tt>|false>|24>>
+    <associate|auto-93|<tuple|<with|font-family|<quote|tt>|x \<gtr\>= y>|24>>
+    <associate|auto-94|<tuple|<with|font-family|<quote|tt>|empty(s)>|24>>
+    <associate|auto-95|<tuple|<with|font-family|<quote|tt>|square(A, B, C,
+    D)>|25>>
+    <associate|auto-96|<tuple|<with|font-family|<quote|tt>|display>|25>>
+    <associate|auto-97|<tuple|5.3|25>>
+    <associate|auto-98|<tuple|5.4|26>>
+    <associate|auto-99|<tuple|5.5|26>>
     <associate|index-abs-27|<tuple|<with|font-family|<quote|tt>|x mod y>|8>>
     <associate|index-abscissa-92|<tuple|2.4|12>>
     <associate|index-acos-23|<tuple|<with|font-family|<quote|tt>|x mod y>|8>>
     <associate|index-altitude-139|<tuple|<with|font-family|<quote|tt>|equilateral
     { x { , a } }>|15>>
-    <associate|index-and-242|<tuple|5.2|23>>
+    <associate|index-and-242|<tuple|5.2|24>>
     <associate|index-angle-136|<tuple|<with|font-family|<quote|tt>|equilateral
     { x { , a } }>|15>>
-    <associate|index-append-230|<tuple|<with|font-family|<quote|tt>|string(s)>|22>>
+    <associate|index-append-230|<tuple|<with|font-family|<quote|tt>|string(s)>|23>>
     <associate|index-area-100|<tuple|2.5|12>>
     <associate|index-area-67|<tuple|<with|font-family|<quote|tt>|s[i]>|11>>
     <associate|index-arg-101|<tuple|2.5|12>>
     <associate|index-arg-115|<tuple|2.6|13>>
     <associate|index-arg-68|<tuple|<with|font-family|<quote|tt>|s[i]>|11>>
     <associate|index-arg-90|<tuple|2.4|12>>
-    <associate|index-arrow-186|<tuple|4.1|18>>
-    <associate|index-arrows-187|<tuple|4.1|18>>
+    <associate|index-arrow-186|<tuple|4.1|19>>
+    <associate|index-arrows-187|<tuple|4.1|19>>
     <associate|index-asin-22|<tuple|<with|font-family|<quote|tt>|x mod y>|8>>
     <associate|index-atan-24|<tuple|<with|font-family|<quote|tt>|x mod y>|8>>
-    <associate|index-back-184|<tuple|4.1|18>>
+    <associate|index-back-184|<tuple|4.1|19>>
     <associate|index-bisector-140|<tuple|<with|font-family|<quote|tt>|equilateral
     { x { , a } }>|15>>
     <associate|index-bisector-71|<tuple|<with|font-family|<quote|tt>|s[i]>|11>>
     <associate|index-bisector-88|<tuple|2.4|12>>
-    <associate|index-black-162|<tuple|4.1|18>>
-    <associate|index-blue-169|<tuple|4.1|18>>
-    <associate|index-box-175|<tuple|4.1|18>>
-    <associate|index-box-190|<tuple|<with|font-family|<quote|tt>|draw l s a
-    ><with|font-family|<quote|tt>|font-shape|<quote|italic>|list>|20>>
+    <associate|index-black-162|<tuple|4.1|19>>
+    <associate|index-blue-169|<tuple|4.1|19>>
+    <associate|index-box-175|<tuple|4.1|19>>
     <associate|index-card-64|<tuple|<with|font-family|<quote|tt>|s[i]>|11>>
     <associate|index-cat-42|<tuple|<with|font-family|<quote|tt>|%%>|9>>
     <associate|index-ceil-29|<tuple|<with|font-family|<quote|tt>|x mod y>|8>>
@@ -2175,62 +2264,57 @@
     <associate|index-clamp-34|<tuple|<with|font-family|<quote|tt>|x mod
     y>|8>>
     <associate|index-clear-8|<tuple|1.1|8>>
-    <associate|index-collinear-249|<tuple|<with|font-family|<quote|tt>|empty(s)>|23>>
-    <associate|index-color-154|<tuple|4.1|18>>
+    <associate|index-color-154|<tuple|4.1|19>>
     <associate|index-commands-4|<tuple|1.1|7>>
     <associate|index-comments-5|<tuple|1.1|7>>
     <associate|index-conic-111|<tuple|2.6|13>>
     <associate|index-conic-related-functions-107|<tuple|2.6|13>>
     <associate|index-constant-numbers-12|<tuple|1.2|8>>
     <associate|index-cos-20|<tuple|<with|font-family|<quote|tt>|x mod y>|8>>
-    <associate|index-cross-177|<tuple|4.1|18>>
-    <associate|index-cyan-170|<tuple|4.1|18>>
-    <associate|index-darkgray-163|<tuple|4.1|18>>
-    <associate|index-dashed-179|<tuple|4.1|18>>
+    <associate|index-cross-177|<tuple|4.1|19>>
+    <associate|index-cyan-170|<tuple|4.1|19>>
+    <associate|index-darkgray-163|<tuple|4.1|19>>
+    <associate|index-dashed-179|<tuple|4.1|19>>
     <associate|index-deg-25|<tuple|<with|font-family|<quote|tt>|x mod y>|8>>
-    <associate|index-direction-159|<tuple|4.1|18>>
+    <associate|index-direction-159|<tuple|4.1|19>>
     <associate|index-directives-2|<tuple|1.1|7>>
-    <associate|index-disc-174|<tuple|4.1|18>>
+    <associate|index-disc-174|<tuple|4.1|19>>
     <associate|index-display-263|<tuple|<with|font-family|<quote|tt>|square(A,
-    B, C, D)>|24>>
+    B, C, D)>|25>>
     <associate|index-distance-89|<tuple|2.4|12>>
-    <associate|index-dot-173|<tuple|4.1|18>>
-    <associate|index-dotted-180|<tuple|4.1|18>>
+    <associate|index-dot-173|<tuple|4.1|19>>
+    <associate|index-dotted-180|<tuple|4.1|19>>
     <associate|index-eccentricity-114|<tuple|2.6|13>>
     <associate|index-element-74|<tuple|<with|font-family|<quote|tt>|s[i]>|11>>
     <associate|index-ellipse-108|<tuple|2.6|13>>
-    <associate|index-ellipse-252|<tuple|<with|font-family|<quote|tt>|empty(s)>|23>>
     <associate|index-empty-247|<tuple|<with|font-family|<quote|tt>|x \<gtr\>=
-    y>|23>>
+    y>|24>>
     <associate|index-empty-81|<tuple|<with|font-family|<quote|tt>|hexagon(O,
     r, a)>|11>>
     <associate|index-empty-set-80|<tuple|<with|font-family|<quote|tt>|hexagon(O,
     r, a)>|11>>
-    <associate|index-endings-160|<tuple|4.1|18>>
-    <associate|index-entire-181|<tuple|4.1|18>>
+    <associate|index-endings-160|<tuple|4.1|19>>
+    <associate|index-entire-181|<tuple|4.1|19>>
     <associate|index-eps-261|<tuple|<with|font-family|<quote|tt>|square(A, B,
-    C, D)>|24>>
+    C, D)>|25>>
     <associate|index-equilateral-135|<tuple|<with|font-family|<quote|tt>|isosceles
     { x, } u { , a }>|15>>
-    <associate|index-equilateral-256|<tuple|<with|font-family|<quote|tt>|empty(s)>|23>>
-    <associate|index-error-233|<tuple|<with|font-family|<quote|tt>|string(s)>|22>>
+    <associate|index-error-233|<tuple|<with|font-family|<quote|tt>|string(s)>|23>>
     <associate|index-exp-17|<tuple|<with|font-family|<quote|tt>|x mod y>|8>>
     <associate|index-false-245|<tuple|<with|font-family|<quote|tt>|a or
-    b>|23>>
-    <associate|index-file-output-228|<tuple|<with|font-family|<quote|tt>|string(s)>|22>>
+    b>|24>>
+    <associate|index-file-output-228|<tuple|<with|font-family|<quote|tt>|string(s)>|23>>
     <associate|index-floor-30|<tuple|<with|font-family|<quote|tt>|x mod
     y>|8>>
     <associate|index-foci-118|<tuple|2.6|13>>
-    <associate|index-font-161|<tuple|4.1|18>>
-    <associate|index-font-188|<tuple|4.1|18>>
-    <associate|index-forth-183|<tuple|4.1|18>>
-    <associate|index-frame-191|<tuple|<with|font-family|<quote|tt>|draw l s a
-    ><with|font-family|<quote|tt>|font-shape|<quote|italic>|list>|20>>
-    <associate|index-full-178|<tuple|4.1|18>>
+    <associate|index-font-161|<tuple|4.1|19>>
+    <associate|index-font-188|<tuple|4.1|19>>
+    <associate|index-forth-183|<tuple|4.1|19>>
+    <associate|index-full-178|<tuple|4.1|19>>
     <associate|index-generic-transformations-121|<tuple|3.1|13>>
-    <associate|index-gray-164|<tuple|4.1|18>>
-    <associate|index-green-168|<tuple|4.1|18>>
-    <associate|index-half-182|<tuple|4.1|18>>
+    <associate|index-gray-164|<tuple|4.1|19>>
+    <associate|index-green-168|<tuple|4.1|19>>
+    <associate|index-half-182|<tuple|4.1|19>>
     <associate|index-height-137|<tuple|<with|font-family|<quote|tt>|equilateral
     { x { , a } }>|15>>
     <associate|index-hexagon-79|<tuple|<with|font-family|<quote|tt>|s[i]>|11>>
@@ -2238,31 +2322,29 @@
     <associate|index-horizontal-276|<tuple|<with|font-family|<quote|tt>|mobile
     ><with|font-family|<quote|tt>|font-shape|<quote|italic>|var><with|font-family|<quote|tt>|
     ( { ><with|font-family|<quote|tt>|font-shape|<quote|italic>|state><with|font-family|<quote|tt>|,
-    } x, y, x', y' { , z } ) = ><with|font-family|<quote|tt>|font-shape|<quote|italic>|point>|25>>
+    } x, y, x', y' { , z } ) = ><with|font-family|<quote|tt>|font-shape|<quote|italic>|point>|27>>
     <associate|index-hyperbola-109|<tuple|2.6|13>>
-    <associate|index-hyperbola-253|<tuple|<with|font-family|<quote|tt>|empty(s)>|23>>
     <associate|index-identifiers-6|<tuple|1.1|7>>
     <associate|index-in-246|<tuple|<with|font-family|<quote|tt>|x \<gtr\>=
-    y>|23>>
+    y>|24>>
     <associate|index-incircle-143|<tuple|<with|font-family|<quote|tt>|equilateral
     { x { , a } }>|15>>
-    <associate|index-input-functions-223|<tuple|<with|font-family|<quote|tt>|close>|22>>
+    <associate|index-input-functions-223|<tuple|<with|font-family|<quote|tt>|close>|23>>
     <associate|index-integers-11|<tuple|1.2|8>>
     <associate|index-intersection-130|<tuple|3.2|14>>
     <associate|index-isobarycenter-72|<tuple|<with|font-family|<quote|tt>|s[i]>|11>>
     <associate|index-isosceles-134|<tuple|<with|font-family|<quote|tt>|right
     { x, } u { , a }>|15>>
-    <associate|index-isosceles-255|<tuple|<with|font-family|<quote|tt>|empty(s)>|23>>
     <associate|index-length-40|<tuple|<with|font-family|<quote|tt>|%%>|9>>
     <associate|index-length-65|<tuple|<with|font-family|<quote|tt>|s[i]>|11>>
-    <associate|index-lightgray-165|<tuple|4.1|18>>
+    <associate|index-lightgray-165|<tuple|4.1|19>>
     <associate|index-line-104|<tuple|2.5|12>>
     <associate|index-line-119|<tuple|2.6|13>>
     <associate|index-line-85|<tuple|2.4|12>>
-    <associate|index-line-style-157|<tuple|4.1|18>>
+    <associate|index-line-style-157|<tuple|4.1|19>>
     <associate|index-ln-18|<tuple|<with|font-family|<quote|tt>|x mod y>|8>>
-    <associate|index-local-271|<tuple|5.4|24>>
-    <associate|index-magenta-171|<tuple|4.1|18>>
+    <associate|index-local-271|<tuple|5.4|26>>
+    <associate|index-magenta-171|<tuple|4.1|19>>
     <associate|index-major-112|<tuple|2.6|13>>
     <associate|index-max-33|<tuple|<with|font-family|<quote|tt>|x mod y>|8>>
     <associate|index-median-141|<tuple|<with|font-family|<quote|tt>|equilateral
@@ -2270,70 +2352,59 @@
     <associate|index-midpoint-70|<tuple|<with|font-family|<quote|tt>|s[i]>|11>>
     <associate|index-min-32|<tuple|<with|font-family|<quote|tt>|x mod y>|8>>
     <associate|index-minor-113|<tuple|2.6|13>>
-    <associate|index-mobile-275|<tuple|5.6|25>>
-    <associate|index-mobile-points-274|<tuple|5.6|25>>
     <associate|index-mod-14|<tuple|1.2|8>>
-    <associate|index-none-185|<tuple|4.1|18>>
-    <associate|index-not-241|<tuple|5.2|23>>
-    <associate|index-number-224|<tuple|<with|font-family|<quote|tt>|close>|22>>
+    <associate|index-none-185|<tuple|4.1|19>>
+    <associate|index-not-241|<tuple|5.2|24>>
+    <associate|index-number-224|<tuple|<with|font-family|<quote|tt>|close>|23>>
     <associate|index-numeric-functions-15|<tuple|<with|font-family|<quote|tt>|x
     mod y>|8>>
     <associate|index-numeric-operators-13|<tuple|1.2|8>>
-    <associate|index-on-248|<tuple|<with|font-family|<quote|tt>|empty(s)>|23>>
-    <associate|index-or-243|<tuple|5.2|23>>
+    <associate|index-or-243|<tuple|5.2|24>>
     <associate|index-ordinate-93|<tuple|2.4|12>>
     <associate|index-orthocenter-138|<tuple|<with|font-family|<quote|tt>|equilateral
     { x { , a } }>|15>>
-    <associate|index-output-234|<tuple|<with|font-family|<quote|tt>|string(s)>|22>>
-    <associate|index-output-commands-226|<tuple|<with|font-family|<quote|tt>|string(s)>|22>>
+    <associate|index-output-234|<tuple|<with|font-family|<quote|tt>|string(s)>|23>>
+    <associate|index-output-commands-226|<tuple|<with|font-family|<quote|tt>|string(s)>|23>>
     <associate|index-parabola-110|<tuple|2.6|13>>
-    <associate|index-parabola-254|<tuple|<with|font-family|<quote|tt>|empty(s)>|23>>
-    <associate|index-parallel-250|<tuple|<with|font-family|<quote|tt>|empty(s)>|23>>
     <associate|index-parallel-86|<tuple|2.4|12>>
-    <associate|index-parallelogram-145|<tuple|3.4|15>>
-    <associate|index-parallelogram-258|<tuple|<with|font-family|<quote|tt>|empty(s)>|23>>
-    <associate|index-partition-158|<tuple|4.1|18>>
+    <associate|index-parallelogram-145|<tuple|3.4|16>>
+    <associate|index-partition-158|<tuple|4.1|19>>
     <associate|index-pentagon-78|<tuple|<with|font-family|<quote|tt>|s[i]>|11>>
     <associate|index-perimeter-66|<tuple|<with|font-family|<quote|tt>|s[i]>|11>>
     <associate|index-perimeter-99|<tuple|2.5|12>>
-    <associate|index-perpendicular-251|<tuple|<with|font-family|<quote|tt>|empty(s)>|23>>
     <associate|index-perpendicular-87|<tuple|2.4|12>>
     <associate|index-pi-35|<tuple|<with|font-family|<quote|tt>|clamp(x, y,
     z)>|9>>
     <associate|index-pi-36|<tuple|<with|font-family|<quote|tt>|clamp(x, y,
     z)>|9>>
-    <associate|index-plus-176|<tuple|4.1|18>>
+    <associate|index-plus-176|<tuple|4.1|19>>
     <associate|index-point-102|<tuple|2.5|12>>
     <associate|index-point-116|<tuple|2.6|13>>
     <associate|index-point-69|<tuple|<with|font-family|<quote|tt>|s[i]>|11>>
     <associate|index-point-91|<tuple|2.4|12>>
-    <associate|index-point-shape-156|<tuple|4.1|18>>
+    <associate|index-point-shape-156|<tuple|4.1|19>>
     <associate|index-polygon-77|<tuple|<with|font-family|<quote|tt>|s[i]>|11>>
-    <associate|index-print-232|<tuple|<with|font-family|<quote|tt>|string(s)>|22>>
-    <associate|index-printable-objects-227|<tuple|<with|font-family|<quote|tt>|string(s)>|22>>
+    <associate|index-print-232|<tuple|<with|font-family|<quote|tt>|string(s)>|23>>
+    <associate|index-printable-objects-227|<tuple|<with|font-family|<quote|tt>|string(s)>|23>>
     <associate|index-projection-128|<tuple|<with|font-family|<quote|tt>|homothecy(o,
     A, x)>|14>>
     <associate|index-projections-127|<tuple|<with|font-family|<quote|tt>|homothecy(o,
     A, x)>|14>>
     <associate|index-pstricks-262|<tuple|<with|font-family|<quote|tt>|square(A,
-    B, C, D)>|24>>
+    B, C, D)>|25>>
     <associate|index-rad-26|<tuple|<with|font-family|<quote|tt>|x mod y>|8>>
     <associate|index-radius-98|<tuple|2.5|12>>
-    <associate|index-rectangle-146|<tuple|3.4|15>>
-    <associate|index-rectangle-259|<tuple|<with|font-family|<quote|tt>|empty(s)>|23>>
-    <associate|index-red-167|<tuple|4.1|18>>
+    <associate|index-rectangle-146|<tuple|3.4|16>>
+    <associate|index-red-167|<tuple|4.1|19>>
     <associate|index-reflection-123|<tuple|3.1|13>>
-    <associate|index-release-231|<tuple|<with|font-family|<quote|tt>|string(s)>|22>>
-    <associate|index-return-270|<tuple|5.4|24>>
+    <associate|index-release-231|<tuple|<with|font-family|<quote|tt>|string(s)>|23>>
+    <associate|index-return-270|<tuple|5.4|26>>
     <associate|index-right-133|<tuple|<with|font-family|<quote|tt>|triangle {
-    x, } z, v { , a }>|14>>
-    <associate|index-right-257|<tuple|<with|font-family|<quote|tt>|empty(s)>|23>>
+    x, } z, v { , a }>|15>>
     <associate|index-rotation-125|<tuple|3.1|13>>
     <associate|index-round-31|<tuple|<with|font-family|<quote|tt>|x mod
     y>|8>>
-    <associate|index-scale-189|<tuple|<with|font-family|<quote|tt>|draw l s a
-    ><with|font-family|<quote|tt>|font-shape|<quote|italic>|list>|20>>
-    <associate|index-scale-factor-155|<tuple|4.1|18>>
+    <associate|index-scale-factor-155|<tuple|4.1|19>>
     <associate|index-segments-60|<tuple|2.3|11>>
     <associate|index-set-63|<tuple|<with|font-family|<quote|tt>|s[i]>|11>>
     <associate|index-set-operators-61|<tuple|2.3|11>>
@@ -2343,30 +2414,29 @@
     <associate|index-sin-19|<tuple|<with|font-family|<quote|tt>|x mod y>|8>>
     <associate|index-special-characters-38|<tuple|1.3|9>>
     <associate|index-sqrt-16|<tuple|<with|font-family|<quote|tt>|x mod y>|8>>
-    <associate|index-square-147|<tuple|3.4|15>>
-    <associate|index-square-260|<tuple|<with|font-family|<quote|tt>|empty(s)>|23>>
+    <associate|index-square-147|<tuple|3.4|16>>
     <associate|index-statements-3|<tuple|1.1|7>>
-    <associate|index-stop-240|<tuple|5.2|23>>
-    <associate|index-string-225|<tuple|<with|font-family|<quote|tt>|close>|22>>
+    <associate|index-stop-240|<tuple|5.2|24>>
+    <associate|index-string-225|<tuple|<with|font-family|<quote|tt>|close>|23>>
     <associate|index-string-related-functions-39|<tuple|<with|font-family|<quote|tt>|%%>|9>>
     <associate|index-sub-41|<tuple|<with|font-family|<quote|tt>|%%>|9>>
     <associate|index-sub-76|<tuple|<with|font-family|<quote|tt>|s[i]>|11>>
     <associate|index-symmetric-124|<tuple|3.1|13>>
     <associate|index-tan-21|<tuple|<with|font-family|<quote|tt>|x mod y>|8>>
     <associate|index-translation-122|<tuple|3.1|13>>
-    <associate|index-triangle-132|<tuple|3.3|14>>
+    <associate|index-triangle-132|<tuple|3.3|15>>
     <associate|index-true-244|<tuple|<with|font-family|<quote|tt>|a or
-    b>|23>>
+    b>|24>>
     <associate|index-variables-7|<tuple|1.1|8>>
     <associate|index-vector-75|<tuple|<with|font-family|<quote|tt>|s[i]>|11>>
     <associate|index-vector-94|<tuple|2.4|12>>
     <associate|index-vertical-277|<tuple|<with|font-family|<quote|tt>|mobile
     ><with|font-family|<quote|tt>|font-shape|<quote|italic>|var><with|font-family|<quote|tt>|
     ( { ><with|font-family|<quote|tt>|font-shape|<quote|italic>|state><with|font-family|<quote|tt>|,
-    } x, y, x', y' { , z } ) = ><with|font-family|<quote|tt>|font-shape|<quote|italic>|point>|25>>
-    <associate|index-white-166|<tuple|4.1|18>>
-    <associate|index-write-229|<tuple|<with|font-family|<quote|tt>|string(s)>|22>>
-    <associate|index-yellow-172|<tuple|4.1|18>>
+    } x, y, x', y' { , z } ) = ><with|font-family|<quote|tt>|font-shape|<quote|italic>|point>|27>>
+    <associate|index-white-166|<tuple|4.1|19>>
+    <associate|index-write-229|<tuple|<with|font-family|<quote|tt>|string(s)>|23>>
+    <associate|index-yellow-172|<tuple|4.1|19>>
     <associate|line-related-functions|<tuple|2.4|12>>
   </collection>
 </references>
@@ -2403,6 +2473,12 @@
       <tuple|<tuple|arg>|<pageref|auto-37>>
 
       <tuple|<tuple|angle>|<pageref|auto-39>>
+
+      <tuple|<tuple|scale>|<pageref|auto-77>>
+
+      <tuple|<tuple|box>|<pageref|auto-79>>
+
+      <tuple|<tuple|frame>|<pageref|auto-80>>
     </associate>
     <\associate|toc>
       Introduction <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
@@ -2610,137 +2686,137 @@
 
       <with|par-left|<quote|1tab>|4.2<space|2spc>Label Commands
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-76>>
+      <no-break><pageref|auto-81>>
 
       <with|par-left|<quote|2tab>|Label parameters
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-77>>
+      <no-break><pageref|auto-82>>
 
       <with|par-left|<quote|2tab>|Single label statements
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-78>>
+      <no-break><pageref|auto-83>>
 
       5<space|2spc>Programming <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-79>
+      <no-break><pageref|auto-84>
 
       <with|par-left|<quote|1tab>|5.1<space|2spc>Input and Output
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-80>>
+      <no-break><pageref|auto-85>>
 
       <with|par-left|<quote|2tab>|Input commands
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-81>>
+      <no-break><pageref|auto-86>>
 
       <with|par-left|<quote|2tab>|Input functions
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-82>>
+      <no-break><pageref|auto-87>>
 
       <with|par-left|<quote|2tab>|Output commands
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-83>>
+      <no-break><pageref|auto-88>>
 
       <with|par-left|<quote|1tab>|5.2<space|2spc>Conditional Statements
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-84>>
+      <no-break><pageref|auto-89>>
 
       <with|par-left|<quote|2tab>|Boolean operators
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-85>>
+      <no-break><pageref|auto-90>>
 
       <with|par-left|<quote|2tab>|Boolean constants
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-86>>
+      <no-break><pageref|auto-91>>
 
       <with|par-left|<quote|2tab>|Comparison operators
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-87>>
+      <no-break><pageref|auto-92>>
 
       <with|par-left|<quote|2tab>|Set assertions
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-88>>
+      <no-break><pageref|auto-93>>
 
       <with|par-left|<quote|2tab>|Geometric assertions
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-89>>
+      <no-break><pageref|auto-94>>
 
       <with|par-left|<quote|2tab>|Output format flags
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-90>>
+      <no-break><pageref|auto-95>>
 
       <with|par-left|<quote|2tab>|Ternary operator
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-91>>
+      <no-break><pageref|auto-96>>
 
       <with|par-left|<quote|1tab>|5.3<space|2spc>Iterative Statements
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-92>>
+      <no-break><pageref|auto-97>>
 
       <with|par-left|<quote|1tab>|5.4<space|2spc>Function Definitions
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-93>>
+      <no-break><pageref|auto-98>>
 
       <with|par-left|<quote|1tab>|5.5<space|2spc>Modules
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-94>>
+      <no-break><pageref|auto-99>>
 
       <with|par-left|<quote|1tab>|5.6<space|2spc>Interactive Variables
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-95>>
+      <no-break><pageref|auto-100>>
 
       <with|par-left|<quote|2tab>|Mobile points
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-96>>
+      <no-break><pageref|auto-101>>
 
       <with|par-left|<quote|2tab>|Interactive numeric variables
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-97>>
+      <no-break><pageref|auto-102>>
 
       <with|par-left|<quote|2tab>|Initialisation directives
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-98>>
+      <no-break><pageref|auto-103>>
 
       <with|par-left|<quote|2tab>|Animation
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-99>>
+      <no-break><pageref|auto-104>>
 
       6<space|2spc>Usage <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-100>
+      <no-break><pageref|auto-105>
 
       <with|par-left|<quote|1tab>|6.1<space|2spc>Invocation
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-101>>
+      <no-break><pageref|auto-106>>
 
       <with|par-left|<quote|2tab>|Common options
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-102>>
+      <no-break><pageref|auto-107>>
 
       <with|par-left|<quote|2tab>|Options specific to
       <with|font-family|<quote|ss>|eukleides> and
       <with|font-family|<quote|ss>|euktopst>
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-103>>
+      <no-break><pageref|auto-108>>
 
       <with|par-left|<quote|2tab>|Option specific to
       <with|font-family|<quote|ss>|eukleides>
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-104>>
+      <no-break><pageref|auto-109>>
 
       <with|par-left|<quote|2tab>|Options specific to
       <with|font-family|<quote|ss>|euktoeps>
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-105>>
+      <no-break><pageref|auto-110>>
 
       <with|par-left|<quote|1tab>|6.2<space|2spc>TeX
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-106>>
+      <no-break><pageref|auto-111>>
 
       <with|par-left|<quote|1tab>|6.3<space|2spc>Localized Keywords
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-107>>
+      <no-break><pageref|auto-112>>
 
       <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|Index>
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-108><vspace|0.5fn>
+      <no-break><pageref|auto-113><vspace|0.5fn>
     </associate>
   </collection>
 </auxiliary>
